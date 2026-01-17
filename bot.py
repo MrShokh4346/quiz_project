@@ -14,10 +14,17 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
+import os
+from aiohttp import web
+from aiogram import types
+from dotenv import load_dotenv
 
+load_dotenv()
 # ===================== CONFIG =====================
-BOT_TOKEN=""
+BOT_TOKEN=os.getenv("BOT_TOKEN")
 QUESTIONS_FILE = "telegram_quiz.json"
+WEBHOOK_URL=os.getenv("WEBHOOK_URL")
+
 # =================================================
 
 logging.basicConfig(level=logging.INFO)
@@ -276,5 +283,23 @@ async def main():
     print(f"Bot ishga tushdi! Mavjud savollar: {len(QUESTIONS)}")
     await dp.start_polling(bot)
 
+async def handle(request):
+    data = await request.json()
+    update = types.Update(**data)
+    await dp.feed_update(bot, update)  # <-- correct for Aiogram 3.3+
+    return web.Response(text="OK")
+
+app = web.Application()
+app.router.add_post(f"/{BOT_TOKEN}", handle)
+
+async def on_startup(app):
+    await bot.set_webhook(WEBHOOK_URL + "/" + BOT_TOKEN)
+
+app.on_startup.append(on_startup)
+
 if __name__ == "__main__":
-    asyncio.run(main())
+    if WEBHOOK_URL:
+        web.run_app(app, host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
+    else:
+        import asyncio
+        asyncio.run(main())
