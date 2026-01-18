@@ -218,7 +218,7 @@ async def send_question(user_id: int):
         question=f"{data['range']} • {data['current']+1}/{data['total']}\n\n{q_text}",
         options=options,
         type="quiz",
-        correct_option_id=correct,
+        correct_option_id=correct + 1,
         is_anonymous=False,
         open_period=30,
         explanation="Vaqt tugadi!",
