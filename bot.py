@@ -171,30 +171,6 @@ async def choose_range(call: CallbackQuery, state: FSMContext):
     await send_question(user_id)
     await call.answer()
 
-# async def send_question(user_id: int):
-#     data = user_data[user_id]
-#     if data["current"] >= data["total"]:
-#         await show_results(user_id)
-#         return
-
-#     q_text, options, correct = data["questions"][data["current"]]
-#     data["answered"] = False
-#     data["timer_task"] = asyncio.create_task(timer_expired(user_id))
-
-#     await bot.send_poll(
-#         chat_id=user_id,
-#         question=f"{data['range']} • {data['current']+1}/{data['total']}\n\n{q_text}",
-#         options=options,
-#         type="quiz",
-#         correct_option_id=correct + 1,
-#         is_anonymous=False,
-#         open_period=30,
-#         explanation="Vaqt tugadi!",
-#         reply_markup=get_quiz_keyboard(data["range"])  # YANGI TUGMALAR
-#     )
-
-
-
 async def send_question(user_id: int):
     data = user_data[user_id]
     if data["current"] >= data["total"]:
@@ -202,14 +178,6 @@ async def send_question(user_id: int):
         return
 
     q_text, options, correct = data["questions"][data["current"]]
-
-    # Shuffle options
-    opt_with_index = list(enumerate(options))
-    random.shuffle(opt_with_index)
-
-    options = [o for _, o in opt_with_index]
-    correct = next(idx for idx, (old_idx, _) in enumerate(opt_with_index) if old_idx == correct)
-
     data["answered"] = False
     data["timer_task"] = asyncio.create_task(timer_expired(user_id))
 
@@ -222,8 +190,40 @@ async def send_question(user_id: int):
         is_anonymous=False,
         open_period=30,
         explanation="Vaqt tugadi!",
-        reply_markup=get_quiz_keyboard(data["range"])
+        reply_markup=get_quiz_keyboard(data["range"])  # YANGI TUGMALAR
     )
+
+
+
+# async def send_question(user_id: int):
+#     data = user_data[user_id]
+#     if data["current"] >= data["total"]:
+#         await show_results(user_id)
+#         return
+
+#     q_text, options, correct = data["questions"][data["current"]]
+
+#     # Shuffle options
+#     opt_with_index = list(enumerate(options))
+#     random.shuffle(opt_with_index)
+
+#     options = [o for _, o in opt_with_index]
+#     correct = next(idx for idx, (old_idx, _) in enumerate(opt_with_index) if old_idx == correct)
+
+#     data["answered"] = False
+#     data["timer_task"] = asyncio.create_task(timer_expired(user_id))
+
+#     await bot.send_poll(
+#         chat_id=user_id,
+#         question=f"{data['range']} • {data['current']+1}/{data['total']}\n\n{q_text}",
+#         options=options,
+#         type="quiz",
+#         correct_option_id=correct, #+ 1,
+#         is_anonymous=False,
+#         open_period=30,
+#         explanation="Vaqt tugadi!",
+#         reply_markup=get_quiz_keyboard(data["range"])
+#     )
 
 
 
@@ -315,6 +315,7 @@ async def restart(call: CallbackQuery, state: FSMContext):
 
 async def main():
     print(f"Bot ishga tushdi! Mavjud savollar: {len(QUESTIONS)}")
+    await bot.delete_webhook(drop_pending_updates=True)
     await dp.start_polling(bot)
 
 async def handle(request):
