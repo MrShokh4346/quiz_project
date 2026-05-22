@@ -1,0 +1,4863 @@
+{
+    "questions": [
+        {
+            "question": "1. Oqsil tuzilishini asosini tashkil qiladi:",
+            "options": [
+                "ketokislotalar bog‘lanishi",
+                "polipeptid zanjir",
+                "nuklein kislotalar zanjiri",
+                "subbirliklar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "2. Tizimli xatolar turlari:",
+            "options": [
+                "Uslubiy, amaliy",
+                "Asbobga bog‘liq",
+                "Reaktivga bog‘liq",
+                "Yuqorida aytilganlarning hammasi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "3. Fruktozaminlar-bu:",
+            "options": [
+                "Fruktozani oqsillar bilan bog‘laydi",
+                "Mukopolisaxarid",
+                "Glikozirlangan albumin",
+                "Glikolipid"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "4. Gemoglobin molekulasi nimadan iborat:",
+            "options": [
+                "globin va temirdan",
+                "gem va globindan",
+                "porfirin va temirdan",
+                "protoporfirin va temirdan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "5. Gem – bu temir va nimaning birikmasi:",
+            "options": [
+                "oqsil",
+                "porfirin",
+                "porfirin va oqsil",
+                "protoporfirin"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "6. Leykotsitoz kuzatiladi:",
+            "options": [
+                "gipersplenizmda",
+                "leykozda",
+                "nurlanishda",
+                "immunitet tankisligida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "7. Qaysi kasallikda limfa tugunlari punktatida Berezovskiy-Shternberg va Xodjkin hujayralari kuzatiladi:",
+            "options": [
+                "gistiotsitoz",
+                "limfogranulematoz",
+                "sarkoidoz o‘tkir leykoz"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "8. O‘tkir leykozda periferik qonda kuzatiladi:",
+            "options": [
+                "neytrofilez",
+                "blast hujayralar",
+                "eritrotsitoz",
+                "trombotsitoz"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "9. O‘tkir leykozda suyak ko‘migida kuzatiladi:",
+            "options": [
+                "eritrotsitar qatorining qisqarishi",
+                "blast metaplaziya",
+                "megakariotsitlar sonining kamayishi",
+                "leykotsitlarning o‘nga siljishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "10. Rang ko‘rsatkichi qachon pasayadi:",
+            "options": [
+                "qo‘rg‘oshindan intoksikatsiyada",
+                "temir-tanqislik anemiyasida",
+                "paroksizmal tungi gemoglobinuriyada",
+                "gipotireozda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "11. Gemoglobinning vazifasi:",
+            "options": [
+                "metabolitlar transporti",
+                "kislorod va CO2 transporti",
+                "plastik",
+                "energetik"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "12. Gemoglobin – bu:",
+            "options": [
+                "vitamin",
+                "xromoproteid",
+                "uglevod",
+                "lipid"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "13. Trombotsitlar qanday sanaladi:",
+            "options": [
+                "qon surtmasida",
+                "qon surtmasida 1000 eritrotsitga nisbatan",
+                "1 mkl qonda",
+                "qon surtmasida 1000 leykotsitga nisbatan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "14. Gemostaz jarayonida trombotsitlar qaysi funksiyani bajaradi:",
+            "options": [
+                "fibrinolitik",
+                "adgeziv, agregatsion",
+                "koagulyatsion",
+                "hammasi to‘g‘ri"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "15. EChT tezlashishiga olib kelmaydi:",
+            "options": [
+                "qonda patologik immunoglobulinlar konsentratsiyasining oshishi",
+                "o‘t kislotalar konsentratsiyasining oshishi",
+                "globulin fraksiyalarining oshishi",
+                "qonda gaptoglobulin va alfa-2-makroglobulin miqdorining o‘zgarishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "16. O‘pka abssessida balg‘amda uchraydi:",
+            "options": [
+                "elastik tolalar",
+                "ditrix probkasi",
+                "kurshman spirallari",
+                "Sharko-Leyden kristallari"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "17. Bronxial astmada balg‘amda aniqlanadi:",
+            "options": [
+                "gematoidin kristallari",
+                "Sharko-Leyden kristallari",
+                "fibrin",
+                "koralsimon tolalar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "18. Koralsimon tolalar balg‘amda aniqlanadi:",
+            "options": [
+                "bronxial astmada",
+                "fibroz-kavernoz silda",
+                "o‘smalarda",
+                "krupoz pnevmoniyada"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "19. Najas massalarining normal rangi nima hisobiga bo‘ladi:",
+            "options": [
+                "uglevodli ovqat",
+                "sterkobilinogen",
+                "yog‘lar",
+                "oqsilli ovqat"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "20. Bijg‘ish bilan kechuvchi kolitga xos emas:",
+            "options": [
+                "bo‘tqasimon najas",
+                "shakllangan najas",
+                "mazsimon najas",
+                "suyuq najas"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "21. Chirish bilan kechuvchi kolitda kuzatiladi:",
+            "options": [
+                "mazsimon najas",
+                "suvsimon najas",
+                "ko‘piksimon najas",
+                "bo‘tqasimon najas"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "22. Laboratoriyadan tashqari omillar tahlil natijalariga ta’sir qilishi mumkin, quyidagilardan tashqari:",
+            "options": [
+                "Bemorning jismoniy va hissiy stressi",
+                "Sirkad ritmlar, iqlim ta’siri",
+                "Tana holati",
+                "Tana vazni"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "23. Amiloreya qaysi kasalliklarda kuzatiladi:",
+            "options": [
+                "Dizenteriya",
+                "O‘tkir enterit",
+                "O‘t-tosh kasalligi",
+                "Kolit"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "24. Qandli diabetga shubha bo‘lsa qaysi test tavsiya qilinadi:",
+            "options": [
+                "Siydikda glyukoza",
+                "Qonda glyukoza, glikirlangan gemoglobin",
+                "xolesterin",
+                "triglitseridlar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "25. Lipidlar so‘rilishi amalga oshadi:",
+            "options": [
+                "og‘iz bo‘shlig‘ida",
+                "ingichka ichaklarda",
+                "me’dada",
+                "12-barmoqli ichaklarda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "26. Qon zardobida onkotik bosimni ushlaydi:",
+            "options": [
+                "ionlar",
+                "oqsillar",
+                "lipidlar",
+                "temir"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "27. Sitologik tekshiruv uchun materialni qaysi usullar bilan olish mumkin:",
+            "options": [
+                "Patologik o‘choqdan materialni qirish usuli bilan olish",
+                "Punksiya usuli",
+                "Olib tashlangan patologik materialni tekshirish",
+                "Hamma yuqoridagi usullardan foydalanish mumkin"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "28. Sitologik diagnostika sifatini yaxshilaydi:",
+            "options": [
+                "Tekshiruv usullarining unifikatsiyasi",
+                "sitologlar malakasini oshirish",
+                "sitologik tekshiruvlarni markazlashtirish va avtomatlashtirish",
+                "Yuqoridagilarning barchasi sitologik tekshiruv sifatini yaxshilash imkonini beradi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "29. Seroz suyuqliklarning asosiy hujayraviy elementlari:",
+            "options": [
+                "neytrofil",
+                "mezoteliy",
+                "limfotsit",
+                "makrofag"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "30. \"anizotsitoz\" nimani bildiradi:",
+            "options": [
+                "turli xil shakldagi eritrotsitlar",
+                "turli xil diametrdagi eritrotsitlar",
+                "turli xil bo‘yalgan eritrotsitlar",
+                "eritrotsitlarning son jihatdan kamligi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "31. Buyrakning asosiy morfofunksional birligi bu:",
+            "options": [
+                "kanalcha",
+                "nefron",
+                "yig‘uvchi naylar",
+                "koptokcha"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "32. \"poykilotsitoz\" nimani bildiradi:",
+            "options": [
+                "turli xil diametrdagi eritrotsitlar",
+                "turli xil shakldagi eritrotsitlar",
+                "eritrotsitlar hajmi",
+                "eritrotsitlarning soni"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "33. Najasning normal rangi nima bilan belgilanadi:",
+            "options": [
+                "uglevodli ovqat",
+                "sterkobilinogen",
+                "yog‘lar",
+                "oqsilli ovqat"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "34. Ginekologiyada sitologik skriningning asosiy vazifasi nimadan iborat:",
+            "options": [
+                "gormonal xolatni aniqlash",
+                "o‘sma oldi protsesslarini va erta rakni aniqlash",
+                "bepushtlikni oldini olish",
+                "bachadon bo‘yinchasi raki turlarini tarqalishini aniqlash"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "35. Granulotsitar qatorning qaysi hujayralari normada periferik qonga chiqadi:",
+            "options": [
+                "Limfotsitlar, monotsitlar, segmentoyadroli neytrofillar",
+                "Eozinofillar, bazofillar, plazmatik hujayralar",
+                "Tayoqcha yadroli va segment yadroli neytrofillar, eozinofillar, bazofillar",
+                "Azurofil donador monotsitlar, bazofillar, eozinofilar"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "36. Plazmatik hujayralar qaysi hujayralardan hosil bo‘ladi:",
+            "options": [
+                "makrofag",
+                "B-limfotsit",
+                "fibroblast",
+                "ko‘rsatilagan hamma hujayralardan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "37. Genetik axborot hujayraning qaysi qismida jamlangan:",
+            "options": [
+                "yadro membranasida",
+                "DNKda",
+                "yadrochada",
+                "nukleoplazmada"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "38. Periferik qonda retikulotsitlarning oshishi nimadan dalolat beradi:",
+            "options": [
+                "suyak ko‘migida normal qon hosil bo‘lishidan",
+                "suyak ko‘migining regenerator funksiyasining kuchayganidan",
+                "bemorda surunkali qon yo‘qotishdan",
+                "periferik qonda retikulotsitlarning parchalanishidan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "39. Bronxlar qanday epiteliy bilan qoplangan:",
+            "options": [
+                "o‘tuvchi epiteliy",
+                "ko‘p qatorli hilpillovchi epiteliy",
+                "ko‘p qavatli yassi muguzlanuvchi epiteliy",
+                "ko‘p qavatli yassi muguzlanmaydigan epiteliy"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "40. Bachadon shilliq qavati qanday epiteliy bilan qoplangan:",
+            "options": [
+                "ko‘p qatorli hilpillovchi epiteliy",
+                "silindrik epiteliy",
+                "o‘tuvchi epiteliy",
+                "ko‘p qavatli yassi muguzlanuvchi epiteliy"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "41. Tahlil natijalariga ichki laboratoriya xususiyatining quyidagi omillari ta’sir qilishi mumkin:",
+            "options": [
+                "Namuna saqlash  sharoitlari",
+                "Pipetkada ishlash omili, ishlatilgan usul prinsipi",
+                "Gemoliz, lipemiya",
+                "Yuqorida aytilganlarning hammasi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "42. Ot zardobidan tayyorlangan nazorat materiali quyidagi hollarda foydalanish mumkin: qo‘shimchalari mavjud bo‘lsa",
+            "options": [
+                "60 daqiqa ichida eriydi",
+                "0,2 birlikdan kam loyqalanishga ega. Ekstinksiya (kyuveta 0,3 sm; to‘lqin uzunligi 630 690 nm)",
+                "sariq rangda va yaltiroqlikka ega"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "43. Surtmalarda kuzatilayotgan o‘zgarishlarning artefakt ekanligini bildiruvchi sitologik belgi:",
+            "options": [
+                "Yadro giperxromiyasi yeki gipoxromiyasi",
+                "Hamma hujayralardagi bir xil o‘zgarishlar",
+                "sitoplazma bazofiliyasi",
+                "sitoplazma vakuolizatsiyasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "44. Aterogen effektga ega:",
+            "options": [
+                "zichligi yuqori lipoproteidlar",
+                "zichligi past lipoproteidlar fosfolipidlar",
+                "polito‘yingan kislotalar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "45. Koagulologik tadqiqotlar sifatini nazorat qilishda qo‘llanilmaydi:",
+            "options": [
+                "Ko‘p sonli donorlarning aralashgan yangi plazmasi (kamida 20 kishi), Kalibrlash uchun standart inson liofilizlangan plazmasi",
+                "qon ivish faktorlari aniq konsentratsiyadagi inson plazmasidan tayyorlangan plazma (normal va patologik)",
+                "qon ivish faktorlari ayrimlarining defitsitli nazorat plazmasi",
+                "Donordan olingan yangi plazma"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "46. Rivalt probasi nimaga mo‘ljallangan:",
+            "options": [
+                "Glikogenni aniqlashga",
+                "Seroz suyuqlikda gemoglobinni aniqlash uchun",
+                "Transudatlarni ekksudatlardan ajratish uchun",
+                "Seroz suyuqlik hujayralarini aniqlash uchun"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "47. Gematologik analizatorlar ko‘rsatkichi RDW qanday o‘zgarishlarni aks ettiradi:",
+            "options": [
+                "eritrositlar shaklini (poykilositoz)",
+                "eritrositlar miqdorini",
+                "eritrositlarning gemoglobin bilan to‘yinganligini",
+                "eritrositlarning hajmiga ko‘ra farqini (anizositoz)"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "48. Nazorat materiallarini talab qilmaydigan sifatni boshqarish usuli:",
+            "options": [
+                "Paralel namunalarni o‘rganish, namunani takroriy tekshirish",
+                "Konstantalarni ishlatish",
+                "O‘rtacha normal ko‘rsatkichlar usuli",
+                "Yuqorida aytilganlarning hammasi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "49. O‘tkir leykoz turini aniqlashda qaysi usul samaraliroq:",
+            "options": [
+                "periferik qon surtmasini tekshirish",
+                "sitoximik usul",
+                "suyak ko‘migi punktantini tekshirish",
+                "yonbosh suyagining trepanobiopsiyasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "50. Bachadon bo‘yinchasi qin qismidan olingan surtmalarda qaysi hujayralarning bo‘lishi maqsadga muvofiq:",
+            "options": [
+                "Silindrik epiteliy hujayralari",
+                "Metaplazirlangan epiteliy hujayralari",
+                "Yassi epiteliy hujayralari va leykotsitlar",
+                "Yassi, silindrik va metaplazirlangan epiteliy hujayralari"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "51. Go‘sht yuvindisi ko‘rinishidagi siydik qaysi kasallikda uchraydi:",
+            "options": [
+                "pielonefrit",
+                "o‘tkir glomerulonefrit",
+                "qandli diabet",
+                "buyrak amiloidozi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "52. Leykotsitar chapga siljish nima:",
+            "options": [
+                "qonda degenerativ o‘zgargan leykotsitlarning paydo bo‘lishi",
+                "bu periferik qonda yosh leykotsitlarni paydo bo‘lishi (tayoqcha yadrolilar, metamielotsit va mieloblastlarning ko‘payishi)",
+                "qonda faqat tayoqcha yadrolilarning sonini oshishi",
+                "qonda faqat segment yadroli leykotsitlarning paydo bo‘lishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "53. Bachadon bo‘yinchasida aksariyat hollarda uchraydigan o‘sma:",
+            "options": [
+                "adenokarsinoma",
+                "yassi hujayrali rak",
+                "sarkoma",
+                "shakllanmagan rak"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "54. Mezotelioma qaysi to‘qimadan rivojlanadi:",
+            "options": [
+                "nerv to‘qimasi",
+                "epitelial to‘qima",
+                "biriktiruvchi to‘qima",
+                "mushak to‘qimasi"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "55. Bakterial vaginoz asosan uchraydi:",
+            "options": [
+                "o‘smirlarda",
+                "tug‘uriq yoshidagi ayollarda",
+                "chaqaloqlarda",
+                "qariyalarda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "56. Xolestaz belgilari:",
+            "options": [
+                "transferazalar faolligining oshishi",
+                "qonda xolesterin miqdorini oshishi",
+                "protrombin indeksining pasayishi",
+                "qonda umumiy bilirubin miqdorining oshishi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "57. Laboratoriyalararo sifat nazorati imkoniyat beradi:",
+            "options": [
+                "Nazorat materiallarini attestatsiyadan o‘tkazish",
+                "Bir necha laboratoriyalar ish sifatini taqqoslash",
+                "Tekshiruv uslubini standartizatsiya qilish",
+                "Ishlatilayotgan usullar sifatini baholash"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "58. Koagulogramma bu:",
+            "options": [
+                "Qon ivish vaqtini o‘lchash usuli",
+                "Gemostaz turli zvenolarini xarakterlovchi usullar majmui",
+                "Trombotsitlar agregatsiyasini aniqlash usuli",
+                "Trombotsitlar faolligini o‘rganish"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "59. Qon zardobida plazmadan farqli ravishda uchramaydi:",
+            "options": [
+                "albumin",
+                "fibrinogen",
+                "komplement",
+                "CRO"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "60. Oqsil tarkibiga necha tabiiy aminokislotalar kiradi:",
+            "options": [
+                "400",
+                "20",
+                "600",
+                "27"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "61. Organizmda aminokislotalarning asosiy massasi ishlatiladi:",
+            "options": [
+                "dezaminirlashga",
+                "oqsil sinteziga",
+                "pereaminirlashga",
+                "RNK sinteziga"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "62. Gamma-globulinlar kamayadi:",
+            "options": [
+                "gastrit",
+                "OITS",
+                "qizilo‘ngach o‘smasi",
+                "12 barmoqli ichak yarasida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "63. Kreatinin –bu:",
+            "options": [
+                "oraliq reaksiyalar  ning katalizatori",
+                "oqsil almashinuvining oxirgi mahsuloti",
+                "osmatik diuretik",
+                "microelement"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "64. Fermentlar kimyoviy tuzilishi bo‘yicha qaysi guruhga kiradi:",
+            "options": [
+                "vitaminlar",
+                "oqsillar",
+                "mineral moddalar",
+                "uglevodlarga"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "65. Fermentlar nima asosida ishlaydi:",
+            "options": [
+                "reaksiyada substrat konsentratsiyasining pasayishi",
+                "biologik kataliz",
+                "reaksiya mahsulotining konsentratsiyasi oshishi",
+                "reaksiya mahsulotining konsentratsiyasi kamayishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "66. Ferment faolligining qaytmas yo‘qotilishi nima bilan bog‘liq:",
+            "options": [
+                "konformatsion o‘zgarishlar bilan",
+                "denaturatsiya",
+                "ferment erishi bilan",
+                "ferment eritmasining muzlatilishi bilan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "67. ALT faolligi eng yuqori darajada qaysi a’zo hujayralarida aniqlanadi:",
+            "options": [
+                "miokard",
+                "jigar",
+                "o‘pka to‘qimasida",
+                "skelet mushaklar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "68. Me’da osti bezi kasalliklari diagnostikasida eng ko‘p ma’lumot beradigan test:",
+            "options": [
+                "xolinesteraza",
+                "alfa-amilaza",
+                "KK",
+                "gamma GTP"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "69. Qon zardobida umumiy temir bog‘lash xususiyati qaysi ko‘rsatkich miqdorini belgilaydi:",
+            "options": [
+                "ferritin",
+                "transferrin",
+                "seruloplazmin",
+                "barcha ko‘rsatilganlar to‘g‘ri"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "70. O‘tkir pankreatit diagnostikasida birinchi kun kasallik yuzaga kelganda, alfa-amilaza faolligi qayerda aniqlanadi:",
+            "options": [
+                "siydikda",
+                "qonda",
+                "so‘lakda",
+                "duodenal suyuqlikda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "71. Uglevodlar so‘rilishi amalga oshadi:",
+            "options": [
+                "me’dada",
+                "ingichka ichaklarda",
+                "og‘iz bo‘shlig‘ida",
+                "qizilo‘ngachda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "72. Uglevodlar so‘rilishi qaysi ko‘rinishda amalga oshadi:",
+            "options": [
+                "kraxmal",
+                "monosaxaridlar",
+                "kletchatka",
+                "glikogen"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "73. Uglevodlarning depolangan shakli hisoblanadi:",
+            "options": [
+                "glyukoza-6-fosfat",
+                "glikogen",
+                "monosaxarid",
+                "oligosaxarid"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "74. Qandli diabet asoratlarini bashorat (prognoz) qilishda qaysi testlar tavsiya qilinadi:",
+            "options": [
+                "siydikda glyukoza",
+                "qonda glyukoza",
+                "AST",
+                "ALT"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "75. Lipidlar asosan qayerda so‘riladi:",
+            "options": [
+                "og‘iz bo‘shlig‘ida",
+                "ingichka ichaklarda",
+                "me’dada",
+                "12-barmoqli ichakda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "76. Triglitseridlarning biologik roli nimaga asoslanadi:",
+            "options": [
+                "boshqaruvchi",
+                "energetik",
+                "gormonal",
+                "lipotrop"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "77. Degidratatsiyaga olib keluvchi omillar:",
+            "options": [
+                "qonda osmolyarlikning oshishi",
+                "suvsizlanish",
+                "qon zardobida insulinni pasayishi",
+                "me’yorda suyuqlik iste’mol qilganda tuzlarning yo‘qotilishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "78. Organizmda suv siljishini xarakterlovchi asosiy ion:",
+            "options": [
+                "xlor",
+                "natriy",
+                "magniy",
+                "oqsillarning polielektrolitlari"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "79. Hujayra membranalari orqali suv harakatlanishini belgilovchi asosiy ion: kalsiy",
+            "options": [
+                "natriy",
+                "magniy",
+                "vodorod"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "80. Atsidoz ni aniqlash uchun tekshiriladi:",
+            "options": [
+                "xloridlar",
+                "pH miqdori",
+                "kaliy",
+                "natriy"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "81. Inson arterial qoni pH me’yori:",
+            "options": [
+                "6.0",
+                "7.4",
+                "6.8",
+                "5.0"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "82. Gipofiz oldingi qismda hosil bo‘ladi:",
+            "options": [
+                "vazopressin",
+                "AKTG",
+                "tiroksin",
+                "glyukagon"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "83. Sitoliz belgilari:",
+            "options": [
+                "bilirubin va γ – globulin miqdorining oshishi",
+                "AsAT, AlAT faolligining oshishi",
+                "bilirubin va ishqoriy fosfataza oshishi",
+                "Timol sinamasini oshishi va Sulema sinamasini pasayishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "84. Glyukokortikoidlarga kiradi:",
+            "options": [
+                "AKTG",
+                "kortizol",
+                "vazopressin",
+                "glyukagon"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "85. Katexolaminlarga kiradi:",
+            "options": [
+                "gistamin",
+                "adrenalin",
+                "vazopressin",
+                "geparin"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "86. Qaysi o‘tkazilgan test usullari virusli gepatitlar haqida qimmatli ma’lumot beradi:",
+            "options": [
+                "Qonda AlAT va AsAT ning faolligi",
+                "Spesifik markerlarni aniqlanishi",
+                "Qonda bilirubin darajasi",
+                "PTI"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "87. Raxit qaysi vitamin yetishmaganda rivojlanadi:",
+            "options": [
+                "vitamin B1 vitamin D",
+                "vitamin B12",
+                "vitamin C"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "88. Ovqat tarkibida askorbin kislotasi tanqisligi nimaga olib keladi:",
+            "options": [
+                "xilez",
+                "singa",
+                "Beri-beri kasalligiga",
+                "Birmer kasalligiga"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "89. Makroenergetik birikma hisoblanadi:",
+            "options": [
+                "glikogen",
+                "ATF",
+                "yog‘ kislotalar",
+                "NAD"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "90. O‘tkir virusli gepatit erta diagnostikasida tekshirish muhim bo‘lgan test:",
+            "options": [
+                "bilirubin fraksiyasi",
+                "aminotransferazalar",
+                "ishqoriy fosfataza",
+                "qon zardobida temir"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "91. O‘tkir virusli gepatitning sariqlik bilan kechuvchi shaklida aniqlanadi:",
+            "options": [
+                "amilazuriya",
+                "bilirubinemiya",
+                "gamma GTP faolligi",
+                "LDG faolligining oshishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "92. C-reaktiv oqsil:",
+            "options": [
+                "me’yorda bo‘ladi, yallig‘lanishda kamayadi",
+                "to‘qima nekrozi, yallig‘lanish jarayonida paydo bo‘ladi",
+                "yallig‘lanish jarayoni remissiya davrida kamayadi",
+                "kasallik avj olganda kamayadi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "93. Virusli gepatit B uchun maxsus test:",
+            "options": [
+                "bilirubin ko‘payishi",
+                "HBs-antigenni immunoximik aniqlanishi",
+                "AST ni aniqlash",
+                "kislotali fosfatazani aniqlash"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "94. Qandli diabet diagnostikasi nimaga asoslanib qo‘yiladi:",
+            "options": [
+                "qon plazmasida gepsidin aniqlash bilan",
+                "doimiy geperglikemiya",
+                "qonda insulin miqdorining kamayishi",
+                "qonda C-peptidlarning o‘zgarishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "95. Qonda qand miqdorini kamaytiruvchi gormonni ko‘rsating:",
+            "options": [
+                "adrenalin",
+                "insulin",
+                "noradrenalin",
+                "glyukokortikoidlar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "96. Ginekologiyada sitologik tekshiruvning asosiy maqsadi:",
+            "options": [
+                "Gormonal holatni aniqlash",
+                "O‘sma oldi va o‘sma jarayonlarini erta aniqlash",
+                "Bepushtlikni oldini olish",
+                "Homiladorlikni oldini olish"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "97. Bioximik tekshiruvlarning sifat nazoratini o‘tkazish uchun ishlatish taklif etiladi:",
+            "options": [
+                "substratlarning suvli eritmasi",
+                "tayyor ishlab chiqarilgan zardob (suyuq yoki liofilizatsiyalangan)",
+                "donor qoni",
+                "chet el firmalari reaktivlari"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "98. Nazorat karta bu:",
+            "options": [
+                "bir kunlik tahlillar to‘plami",
+                "tekshiruv vaqtiga bog‘liq bo‘lgan o‘lchovlarning grafik chizmasi",
+                "kontrol natijalar hisob chizmasi",
+                "natijalarning hisob chizmasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "99. Almashtirib bo‘lmaydigan aminokislotani ko‘rsating:",
+            "options": [
+                "serin, glitsin, gistidin",
+                "lizin, triptofan, fenilalanin",
+                "prolin, oksiprolin",
+                "adenin, sitozin"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "100. Disproteinemiya bu:",
+            "options": [
+                "umumiy oqsillarning oshishi",
+                "plazmadagi oqsillar fraksiyasi nisbatining buzilishi",
+                "globulinlarni oshishi",
+                "umumiy oqsillarning kamayishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "101. Transferrin-bu globulinning nima bilan birikmasi:",
+            "options": [
+                "natriy",
+                "temir",
+                "magniy",
+                "kobalt"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "102. Qoldiq azot mochevina azoti hisobiga qachon oshadi: yurak ishemik kasalligi",
+            "options": [
+                "nefrit, o‘tkir va surunkali  buyrak yetishmovchiligi",
+                "o‘pka kasalliklarida",
+                "o‘tkir gepatit"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "103. Kreatininning qon va siydikda aniqlanish sababi:",
+            "options": [
+                "buyrak reabsorbsiyasini aniqlash uchun",
+                "buyraklar filtratsiyasini tavsiflash uchun",
+                "azot balansini baholash uchun",
+                "osmotik konsentratsiyani hisoblash uchun"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "104. Kreatinkinaza eng yuqori darajada qaysi a’zo hujayralarida aniqlanadi:",
+            "options": [
+                "jigar",
+                "miokard mushaklari",
+                "eritrotsitlar",
+                "o‘pkada"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "105. Miokard infarktida qaysi fermentning faolligi oshadi:",
+            "options": [
+                "LDG-5",
+                "kreatinkinaza",
+                "LDG-3",
+                "xolinesteraza"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "106. AST/ALT ( de Ritis koeffitsienti) qaysi kasalliklarda ma’lumot beradi:",
+            "options": [
+                "infeksion mononukleoz",
+                "o‘tkir va persistirlangan virusli gepatit",
+                "jigar ichi xolestazi",
+                "og‘ir jigar yog‘li distrofiyasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "107. Glyukozaning asosiy miqdori qaysi jarayonda utilizatsiyalanadi:",
+            "options": [
+                "proteoliz",
+                "glikoliz",
+                "lipoliz",
+                "glikoneogenez"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "108. Giperglikemik ta’sirga ega:",
+            "options": [
+                "estrogenlar",
+                "glyukokortikoidlar",
+                "insulin",
+                "paratireoid gormonlar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "109. Glyukozuriya glyukoza miqdori qonda qaysi holatda uchrashi mumkin:",
+            "options": [
+                "5.5 mmol/l",
+                "11.9 mmol/l",
+                "4.7 mmol/l",
+                "7.1 mmol/l"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "110. Triglitseridlar gidrolizida qatnashuvchi fermentlar:",
+            "options": [
+                "fosfolipaza",
+                "lipaza",
+                "alfa-amilaza",
+                "xolinesterazalar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "111. Xolesterinni organizmdan chiqarishda qatnashuvchi a’zo:",
+            "options": [
+                "so‘lak",
+                "jigar",
+                "me’da",
+                "teri"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "112. Xolesterinning eterifikatsiyasi amalga oshadi:",
+            "options": [
+                "qon zardobida",
+                "jigarda",
+                "qon plazmasida",
+                "buyrak usti bezlarida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "113. Nazorat tekshiruvida ishlatilmaydi:",
+            "options": [
+                "ot zardobi",
+                "qoramol zardobi",
+                "inson zardobi",
+                "kalamush zardobi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "114. Antiaterogen effektga ega:",
+            "options": [
+                "zichligi past lipoproteidlar",
+                "zichligi yuqori lipoproteidlar",
+                "zichligi juda past lipoproteidlar",
+                "triglitseridlar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "115. Qonda natriy miqdorini boshqaradi:",
+            "options": [
+                "paratgormon",
+                "aldosteron",
+                "serotonin",
+                "prostoglandinlar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "116. Temir so‘rilishiga yordam beradi:",
+            "options": [
+                "tripsin",
+                "askorbin kislota",
+                "amilaza",
+                "o‘t kislotalari"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "117. Kislotalarga kiradi:",
+            "options": [
+                "glyukoza",
+                "eritmada vodorod ionini beruvchi molekulalar",
+                "mochevina",
+                "kreatinin"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "118. pH –bu:",
+            "options": [
+                "gidroksil guruhlar konsentratsiyasi",
+                "vodorod ionlari konsentratsiyasini manfiy o‘nlamchi logarifm belgisi",
+                "vodorod ionlari konsentratsiyasi",
+                "polikarbonatlar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "119. Alkaloz xarakterlanadi:",
+            "options": [
+                "qonda laktatlar oshishi bilan",
+                "qonda pH oshishi bilan",
+                "qonda glyukozani kamayishi bilan",
+                "qonda OH konsentratsiyasi kamayishi bilan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "120. Ayollarda gonoreya tashxisini qo‘yishda qaysi bakterioskopik usul samaraliroq:",
+            "options": [
+                "metilen ko‘ki bilan bo‘yalgan surtmalar bakterioskopiyasi",
+                "gramm usulida bo‘yalgan surtmalar bakterioskopiyasi",
+                "romanovskiy usulida bo‘yalgan surtmalarni tekshirish",
+                "bakterioskopik tekshirish ahamiyatga ega emas"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "121. Protrombinaza faollashishining tashqi yo‘li boshlang‘ich zvenosi hisoblanadi:",
+            "options": [
+                "Faktor I",
+                "Faktor X",
+                "To‘qima faktori",
+                "Prekallikrein"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "122. Vitamin K nimaning sinteziga ta’sir qiladi:",
+            "options": [
+                "Fibrinogenning",
+                "Protrombinning",
+                "Faktor III ning",
+                "Faktor XII ning"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "123. Gematologik tekshiruvlar sifatini nazorat qilish uchun ishlatilmaydi:",
+            "options": [
+                "Gemoglobinsionidning standart eritmasi",
+                "Konservalangan yoki turg‘unlashgan qon",
+                "Fiksatsiya qilingan qon hujayralari, nazorat surtmalari",
+                "Bemorning qoni"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "124. Protrombinaza tashqi aktivatsiya mexanizmida ishtirok etadi:",
+            "options": [
+                "Faktor VIII",
+                "Faktor VII",
+                "Faktor IX",
+                "Faktor XII"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "125. Protrombin proteolizi chaqiradi:",
+            "options": [
+                "faktor I",
+                "faktor VII A",
+                "faktor IX A",
+                "faktor X A"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "126. Qisman faollashgan tromboplastin vaqti (achtv) nimani ko‘rsatadi:",
+            "options": [
+                "Gemostaz trombotsitar zanjiri holati",
+                "Fibrinolitik tizim holati",
+                "Protrombinaza faolligining ichki yo‘li",
+                "Antikoagulyant zvenosi holati"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "127. Qonda gaptoglobin kamayganda kuzatiladi:",
+            "options": [
+                "Mioglobinuriya",
+                "Gemoglobinuriya",
+                "Gipokaliemiya",
+                "Giperbilirubinemiya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "128. Trombotsitlarda sintezlanadi:",
+            "options": [
+                "Prostasiklin",
+                "Tromboksan A2",
+                "Protein C",
+                "Faktor VII"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "129. Qon laxtasi retraksiyasi qaysi funksiya bilan aniqlanadi:",
+            "options": [
+                "Plazma faktori bilan",
+                "Trombotsitlar bilan",
+                "Kinin tizimi bilan",
+                "Komplement tizimi bilan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "130. Trombin hosil bo‘lishiga to‘sqinlik qiladi:",
+            "options": [
+                "Yuqori molekular massali kininogen",
+                "Antikoagulyantlar",
+                "Villebrand omili",
+                "Kalsiy ionlari"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "131. Plazma omilining faollashishi kelib chiqadi:",
+            "options": [
+                "V omilda",
+                "3 trombotsit omilida (fosfolipidda)",
+                "VIII omilda",
+                "IX omilda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "132. Protrombinaza hosil bo‘lishini tashqi yo‘lini boshqarish kerak:",
+            "options": [
+                "XIII omili bilan",
+                "Protrombin vaqti bilan",
+                "Plazmaning geparinga tolerantliligi bilan",
+                "Trombin vaqti bilan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "133. Fibrinolitik tizim faolligini boshqaradi:",
+            "options": [
+                "Trombin vaqti bilan",
+                "Ddimerlar hosil bo‘lishi bilan",
+                "Protrombin vaqti bilan",
+                "Antitrombin bilan"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "134. Fibrinoliz aktivatori hisoblanadi:",
+            "options": [
+                "Antitrombin",
+                "Streptokinaza",
+                "Lipoproteidlar",
+                "Kollagen"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "135. Trombotsitopatiyani aniqlash uchun tekshiriladi:",
+            "options": [
+                "Trombotsitlar miqdori",
+                "Trombotsitlarning agregatsion-adgeziv funksiyasi",
+                "Trombotsitlarning deformatsiyalanishi",
+                "Trombin vaqti"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "136. K vitamini almashinuvi buziladi:",
+            "options": [
+                "Buyrak kasalliklarida",
+                "Parenximatoz gepatitda",
+                "Burundan qon ketishlarda",
+                "Miokard infarktida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "137. Tabiiy antikoagulyant hisoblanadi:",
+            "options": [
+                "III omil",
+                "Antitrombin",
+                "Plazminogen",
+                "Streptokinaza"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "138. Suyuq nazorat materialini quruq nazorat materialidan afzalligi:",
+            "options": [
+                "Eritishda xatoliklarni bartaraf etish",
+                "materialni tayyorgarliksiz ishlatish",
+                "vaqtni tejash",
+                "Yuqorida aytilganlarning hammasi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "139. Qon tomir endoteliysida sintezlanadi:",
+            "options": [
+                "Protrombin",
+                "Prostasiklin",
+                "Tromboksan",
+                "IX omil"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "140. Protein C aniqlashning tashxisiy ahamiyati:",
+            "options": [
+                "Bilvosita antikoagulyantlar dozasini oshirish yoki kamaytirish mezonlari",
+                "Tromboz havfini aniqlash",
+                "Geparin terapiyasini nazorat qilish",
+                "Fibrinolizni baholash"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "141. Agregatsiya chaqiruvchi trombotsitlar prokoagulyanti:",
+            "options": [
+                "Prostasiklin",
+                "Tromboksan",
+                "To‘qima faktori",
+                "Protein C"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "142. Plazmada nimaning oshib ketishi trombotsitlar aktivatsiyasi haqida bildiradi:",
+            "options": [
+                "Antitrombinning",
+                "Beta-tromboglobulinning",
+                "Fibrinogenning",
+                "Komplementning"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "143. Glyukozani stabillashtirish uchun qon olganda nimadan foydalanish kerak:",
+            "options": [
+                "Natriy oksalati",
+                "Natriy ftoridi",
+                "Sitrat",
+                "Geparin"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "144. Sitrat va oksalat nimani hisobiga plazmani stabillashtiradi:",
+            "options": [
+                "Antitrombin faollashishi hisobiga",
+                "kalsiy ionini bog‘lash hisobiga",
+                "Xageman omilini faollashtirilishini ogohlantirish hisobiga",
+                "Tromboplastinlar ingibirlash hisobiga"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "145. Bemor biomaterialini ro‘yxatdan o‘tkazish qaysi bosqichda amalga oshiriladi:",
+            "options": [
+                "Analitik",
+                "Preanalitik",
+                "Postanalitik",
+                "Preanalitik va postanalitik"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "146. Laboratoriya analizi baholash qaysi bosqichda amalga oshiriladi:",
+            "options": [
+                "Analitik",
+                "Preanalitik",
+                "Postanalitik",
+                "Preanalitik va analitik"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "147. Reanimatsion bo‘limdagi bemorlardan qayeridan qon olish mumkin emas:",
+            "options": [
+                "Arteriyadan",
+                "O‘mrov osti kateteridan",
+                "Venadan",
+                "Barmoqdan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "148. Gematologik tekshiruvlar uchun qaysi antikoagulyant qo‘llanadi:",
+            "options": [
+                "Natriy oksalat",
+                "EDTA",
+                "Geparin",
+                "Natriy sitrat"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "149. Koagulogrammaga qon olishda yelka osti sohasida jgut qo‘yish davomiyligi qancha vaqtdan oshmasligi kerak:",
+            "options": [
+                "30 soniya",
+                "1 daqiqa",
+                "15 soniya",
+                "2 daqiqa"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "150. Koagulogrammaga qon olish jarayonida quyidagilardan qay biri yo‘l qo‘yilmaydi:",
+            "options": [
+                "Sitratli plastik probirkalarini ishlatish",
+                "Probirkalarini in’eksiya uchun shpris yordamida sitrat bilan to‘ldirish",
+                "Sitratli silikon probirkalarini ishlatish",
+                "Sitrat bilan to‘ldirilgan vakuumli probirkalar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "151. Romanovskiy bo‘yog‘ini pH 6.8-7.2 bufer suvida tayyorlash kerak chunki:",
+            "options": [
+                "Bo‘yoqni qon elementlariga o‘tishi yaxshilanadi",
+                "Hujayra elementlarini bo‘yoqlash uchun optimal muhit paydo bo‘ladi",
+                "Buyoq cho‘kmaga tushmaydi",
+                "Yuvilishdan himoyalanadi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "152. Qishloq aholisini bezgakka tekshirilganda, qalin tomchi usuli bilan olingan qonni bo‘yashdan oldin muhim:",
+            "options": [
+                "surtmani fiksatsiya qilish",
+                "qonni degemoglobinizatsiyalash",
+                "surtmalarni muzlatgichga joylashtirish",
+                "surtmalarni eksikatorga joylash"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "153. Sil kasalligiga bakteriya ajralishida balg‘am preparatlarini mikroskopda tekshirish uchun nima bilan bo‘yash kerak:",
+            "options": [
+                "Papanikolau",
+                "Sil-Nilsen",
+                "Romanovskiy-Gimza bilan",
+                "Leyshman"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "154. Balg‘amni mikroskopik tekshiruv jarayonida yuqori natija nimaga bog‘liq:",
+            "options": [
+                "Bemordan olingan biomaterial 0,5 soatdan keyin tayyorlangan nativ reparate tekshirilishiga",
+                "Biomaterial olinayotgan porsiyalar sonining ko‘payishi",
+                "Tayyorlangan surtmalarning sonini oshishiga",
+                "Tekshirishdan oldin bemor tomonidan 12 soat davomida och yurishga amal qilishga"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "155. O‘t qopidan ajralgan o‘tni ikki soat davomida mikroskopik o‘rganilishga imkon bo‘lmaganda:",
+            "options": [
+                "Issiq suv hammomiga qo‘yish",
+                "10%formalin, 10% EDTA, trasilol bilan konservalash",
+                "Termostatga qo‘yish",
+                "Muzlatgichga qo‘yish"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "156. Orqa miya suyuqligini tekshirilayotganda, yolg‘on eritrositarxiyani oldini olish uchun muhim:",
+            "options": [
+                "Likvorni filtrdan o‘tkazish",
+                "Likvorni birinchi 3-5 tomchisini olmaslik",
+                "Likvorni sentrifuga qilish",
+                "Likvoroforez o‘tkazish"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "157. Klinik bioximik o‘lchovni to‘g‘riligini bilish uchun nimadan foydalaniladi:",
+            "options": [
+                "Bemorlar biomateriali bilan",
+                "Tekshirilgan nazorat zardobi",
+                "Kalibrator",
+                "Tekshirilmagan nazorat zardobi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "158. Tegishli boshqarish vositalarini tanlash quyidagicha belgilanadi:",
+            "options": [
+                "Tahlil qilingan namunaning fizik-kimyoviy xususiyatlarida uning o‘ziga xosligi",
+                "Saqlash barqarorligi, seriyadagi minimal o‘zgaruvchanlik",
+                "Barcha tahlil jarayonini boshqarish imkoniyatlari",
+                "Barcha sanab o‘tilgan omillar"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "159. Fizik-kimyoviy xususiyatlari va tashqi ko‘rinishi jihatidan nazorat materiallari qanday talablarga javob berishi kerak:",
+            "options": [
+                "Pasport ma’lumotlarining noto‘g‘riligi",
+                "Klinik materialga o‘xshamasligi",
+                "Odam zardobiga to‘g‘ri kelishi",
+                "Muzlatishga va haroratga chidamli bo‘lishi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "160. Laboratoriyaga keltirilgan material yo‘llanmasida quyidagilarni ko‘rsatish kerak, bundan tashqari:",
+            "options": [
+                "bemor ism sharifi (kasallik tarixi nomeri), davolovchi shifokorning ism sharifi",
+                "laborator tekshiruv turi",
+                "taxmin qilingan tashxis",
+                "laborator tekshiruv usuli"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "161. Endotservikozda surma qayerdan olinadi:",
+            "options": [
+                "bachadon shilliq qavatidan",
+                "bachadon bo‘yinchasining qin qismidan alohida va servikal kanaldan alohida",
+                "servikal kanaldan",
+                "qindan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "162. Siydikning kimyoviy tarkibini monitoring qilish uchun nazorat qilish materiallari sifatida foydalaniladi, quyidagilardan tashqari:",
+            "options": [
+                "Siydikda sinovdan o‘tgan moddalarning suvli eritmalari",
+                "Siydikni konservantlar bilan to‘kib tashlang",
+                "Sinovdan o‘tgan qo‘shimchalar solinib tayyorlangan sun’iy siydik",
+                "Bemor siydigi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "163. Tahlil jarayonida keng tarqalgan xatolar:",
+            "options": [
+                "Individual",
+                "Tasodifiy, uslubiy",
+                "Tizimli",
+                "Yuqoridagilarning har biri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "164. Sifatni nazorat qilishda quyidagi mezonlardan foydalanilmaydi:",
+            "options": [
+                "takrorlanuvchanlik",
+                "To‘g‘rilik",
+                "Aniqlik",
+                "Parallellik"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "165. Gepatitlarda gepatodepressiya indikatori hisoblanadi:",
+            "options": [
+                "protrombin vaqti",
+                "xolinesteraza",
+                "albumin",
+                "alfa-amilaza"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "166. To‘qimadan qonga ferment ajralib chiqish tezligi nimaga bog‘liq:",
+            "options": [
+                "fermentning turiga",
+                "ferment molekulasi hajmiga, konsentratsiyasi gradientiga",
+                "fermentning to‘qima ichi lokalizatsiyasiga",
+                "fermentning to‘qimadan tashqari lokalizatsiyasiga"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "167. Delta virusi infeksiyasini tarqalishi qaysi virusli gepatitga bog‘liq:",
+            "options": [
+                "A",
+                "B",
+                "C",
+                "HBs-ANTIGEN"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "168. Qon ivish tizimi omillari qayerda joylashgan:",
+            "options": [
+                "eritrositlarda",
+                "plazma, trombotsitlarda",
+                "leykotsitlarda",
+                "limfotugunlarda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "169. Xolestazda qaysi ferment faolligi oshadi:",
+            "options": [
+                "AST",
+                "5-nukleotidaza, ishqoriy fosfataza",
+                "KFK",
+                "LDG"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "170. Qaysi kasalliklarda beta-globulinlar oshishi kuzatiladi:",
+            "options": [
+                "qandsiz diabetda",
+                "qandli diabetda",
+                "jigar sirrozida",
+                "angina"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "171. Qaysi holatda erkin bilirubin oshishi kuzatiladi:",
+            "options": [
+                "Miokard infarktida",
+                "Krigler-Nayyar sindromida, eritrotsitlar gemolizida",
+                "Xolestazda",
+                "O‘t-tosh kasalligida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "172. Ichakda A, E, K, D, F vitaminlarining so‘rilishi buzilishi qaysi kasalliklarda kuzatiladi:",
+            "options": [
+                "yurak kasalliklarida",
+                "jigar va me’da osti bezi kasalliklarida",
+                "oshqozon yara kasalligida",
+                "buyrak kasalligida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "173. Bemor tez-tez peshob ajratayotganidan shikoyat qilyapti. Bu qanday kasallik belgisi:",
+            "options": [
+                "Pielonefrit",
+                "Qandli diabet",
+                "Pnevmoniya",
+                "Epidemiologik parotit"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "174. Surunkali mieloleykozga ko‘proq xos bo‘lgan qon ko‘rinishi:",
+            "options": [
+                "leykotsitoz limfotsitoz bilan",
+                "giperleykotsitoz, granulotsitoz chapga siljish bilan mielotsitlargacha",
+                "anemiya, eritroblastoz, retikulotsitoz",
+                "leykopeniya granulotsitopeniya bilan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "175. Material olgunga qadar hujayra o‘limining sitologik belgilari:",
+            "options": [
+                "Yadro fragmentatsiyasi",
+                "Kariolisiz va yadro vakuolizatsiyasi",
+                "Piknoz va karioreksis",
+                "Yuqorida ko‘rsatilgan hamma ko‘rsatilgan belgilar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "176. Qandli diabetga xos bo’lgan belgilar qanday:",
+            "options": [
+                "ko’rishning noaniqligi, ongni yo’qotish, og’izga tashnalik, yuqori siyish, siydik qorong’i",
+                "tez-tez siyish, tashnalik kuchayishi, tez vazn yo’qotish, terining qichishi, ko’rishning noaniqligi",
+                "buzoq mushaklarining Kramplari, ongni yo’qotish, tashnalik, isitma, semirish, bo’yin falaji",
+                "harorat, terining qichishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "177. Yog'da eriydigan vitaminlarni ko'rsating:",
+            "options": [
+                "A, D, B",
+                "A, D, E",
+                "A, D, C",
+                "A, D, PP"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "178. Gepatitda gepatodepressiya ko'rsatkichi:",
+            "options": [
+                "albumin",
+                "xolinesteraza",
+                "KFC",
+                "alfa-amilaza"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "179. Tahlil natijalariga quyidagi laboratoriya omillari ta’sir qilishi mumkin:",
+            "options": [
+                "namunani saqlash shartlari",
+                "Pipetlash xususiyati",
+                "gemoliz, lipemiya",
+                "yuqorida sanab o'tilganlarning barchasi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "180. Qanday hollarda azotemiyani ushlab turish kuzatiladi:",
+            "options": [
+                "bronxit bilan",
+                "buyrak etishmovchiligi bilan",
+                "gastrit uchun",
+                "gepatit bilan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "181. Xolinesteraza kamayadi:",
+            "options": [
+                "tireoiditda",
+                "jigar sirrozi",
+                "turli lokalizatsiyadagi karsinoma",
+                "o‘tkir buyrak yetishmovchiligi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "182. Fermentlar qanday bo'lishi mumkin:",
+            "options": [
+                "B. uch komponentli, oddiy va murakkab oqsillar",
+                "oddiy va murakkab",
+                "oddiy va murakkab oqsillar",
+                "G. bir komponentli, ikki komponentli, oddiy va murakkab oqsillar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "183. Qanday vitaminlar suvga tegishli:",
+            "options": [
+                "Antigelorokit, orotat kislotasi, tiamin, biotin, antikorxitik",
+                "tiamin, riboflavin, nikotinik kislota, piridoksin, foliy kislotasi",
+                "nevrit, riboflavin, kalsiferollar, tokoferollar, siyanokobalamin",
+                "Filloxinlar, akseroftol, karotinlar, piridoksin, biotin, niatsin, retinol"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "184. Inson tanasida qancha granulotsitlar normal:",
+            "options": [
+                "3.0-8.0",
+                "2.0-7.0",
+                "4,0-9,0",
+                "5,0-10,0"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "185. «K» avitaminozi kuzatilmaydi:",
+            "options": [
+                "Parenximatoz gepatitda",
+                "Obturatsion sariqlikda",
+                "Disbakteriozda",
+                "Tuxumdonlar disfunksiyasida"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "186. Protrombin vaqtning uzayishi kuzatilmaydi:",
+            "options": [
+                "Avitaminoz «K» da",
+                "Parenximatoz gepatitda",
+                "Gemofiliyada",
+                "giperkoagulyatsiyada"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "187. Glansman kasalligida zararlanadi:",
+            "options": [
+                "Tomir endoteliysi",
+                "Jigar",
+                "Vitamin «K» surilishi",
+                "Trombotsitlar"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "188. Villebrand kasalligi bog‘liq:",
+            "options": [
+                "VIII-k actor defekti bilan",
+                "VIII-v actor antigeni defekti bilan",
+                "Jigar patologiyasi bilan",
+                "Fibrinogen pasayishi bilan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "189. Gemofiliya kasalligida kuzatiladi:",
+            "options": [
+                "Trombotsitlar faktorining defitsiti",
+                "Zardob faktorlarining defitsiti",
+                "Leykotsitlar faktorining defitsiti",
+                "Qon-tomirlar faktorining defitsiti"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "190. Qon-tomir endoteliysida sintezlanadi:",
+            "options": [
+                "Protrombin",
+                "Prostasiklin",
+                "Tromboksan",
+                "IX faktor"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "191. Protein C diagnostik ahamiyati:",
+            "options": [
+                "Antikoagulyant dori vositalar dozasini to‘g‘ri tanlashda",
+                "Tromboemboliya havfini aniqlashda",
+                "Jigar disfunksiya darajasini baholashda",
+                "Koagulopatiyada jigar zararlanganligini aniqlashda"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "192. Leyshmanioz qo‘zg‘atuvchisi:",
+            "options": [
+                "virus",
+                "sodda hayvon",
+                "zamburug‘",
+                "spiroxeta"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "193. Kislotaishqor muvozanat doimiyligini ushlab turadi:",
+            "options": [
+                "suyak to‘qimasi",
+                "buyraklar",
+                "miokard",
+                "sinovial suyuqlik"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "194. Atsidoz xarakterlanadi:",
+            "options": [
+                "qonda laktatlar kamayishi bilan",
+                "qonda pH kamayishi bilan",
+                "qonda glyukozani kamayishi bilan",
+                "qonda OH konsentratsiyasi kamayishi bilan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "195. Gipotalamus gormonlari qaysi bezga to‘g‘ri ta’sir o‘tkazadi:",
+            "options": [
+                "qalqonsimon",
+                "gipofiz",
+                "me’da osti",
+                "buyrak usti bezi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "196. Insulin tanqisligida kuzatiladi:",
+            "options": [
+                "glikogen sintezi",
+                "glyukoza oksidlanishi kamayadi",
+                "fosfor ionlari hujayraga kirishi ortadi",
+                "kaliy ionlari hujayraga kirishi ortadi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "197. Liberin va statinlar (rilizingfaktorlar) qayerda hosil bo‘ladi:",
+            "options": [
+                "buyrak usti bezlari",
+                "gipotalamus",
+                "qalqonsimon bezi",
+                "jinsiy bezlar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "198. Qandli diabet rivojlanadi:",
+            "options": [
+                "somatotrop gormon oshganda",
+                "insulin yetishmaganda",
+                "glyukokortikoidlar sekresiyasi kamayganda",
+                "vazopressin yetishmaganda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "199. Bilirubinning eng ko‘p toksik ta’siri sodir bo‘ladi:",
+            "options": [
+                "biriktiruvchi to‘qima hujayralariga",
+                "nerv hujayralariga",
+                "o‘pka to‘qimasiga",
+                "mushak hujayralariga"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "200. Buyrak funksiyasi buzilib, solishtirma og‘irligi kamaysa, bunga nima deyiladi:",
+            "options": [
+                "buyrak kanallari zararlanishi",
+                "gipostenuriya",
+                "buyrak jomchalar faoliyatini buzilishi",
+                "izostenuriya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "201. Konyugirlangan bilirubinning asosiy qismi o‘tadi:",
+            "options": [
+                "venadan",
+                "o‘t chiqaruvchi kapillyarlar",
+                "limfatik sistema",
+                "so‘lak"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "202. Quyidagi qaysi moddalar trombotsitlar agregatsiyasini chaqirmaydi: adrenalin",
+            "options": [
+                "aspirin",
+                "trombin",
+                "ADF"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "203. Anaerob glikoliz oxirida qaysi mahsulot hosil bo‘ladi:",
+            "options": [
+                "Glitseraldegidfosfat",
+                "sut kislota",
+                "limon kislotasi",
+                "keton tanachalari"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "204. Quyidagi qaysi patologik holatlarda keton tanalari miqdori oshishi kuzatiladi:",
+            "options": [
+                "semirish",
+                "qandli diabet",
+                "jigarning yog‘li distrofiyasi",
+                "qandsiz diabetda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "205. Nazorat kartalarning asosiy ahamiyati nimada:",
+            "options": [
+                "uslubning imkoniyatini baholash",
+                "nazoratdagi tahlillar natijasi belgilangan me’yorlar chegarasidan chiqmagan hollarda xatoliklarni aniqlash",
+                "uslubning sezuvchanligini baholash",
+                "nazoratdagi tahlillar natijasi belgilangan me’yorlar chegarasidan oshgan hollarda xatoliklarni aniqlash"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "206. Qonda qaysi kasalliklarda fibrinogen kamayadi:",
+            "options": [
+                "revmatizm",
+                "surunkali jigar kasalliklari",
+                "uremiya",
+                "miokard infarkti"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "207. Azotemiyaga olib keladi:",
+            "options": [
+                "kaliy tanqisligi",
+                "koptokcha filtratsiyasining pasayishi",
+                "oqsil sintezining oshishi",
+                "glyukozuriya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "208. Bemor qonida glyukoza yoshiga nisbatan me’yorda, lekin siydikda glyukoza bor, qaysi kasallikni istisno qilish kerak:",
+            "options": [
+                "qandli diabet manifesti",
+                "buyrak diabeti",
+                "glyukozaga tolerantlik buzilishi",
+                "Itsenko-Kushing kasalligi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "209. Qon zardobi loyqaligi nima bilan bog‘liq:",
+            "options": [
+                "yog‘ kislotalari",
+                "triglitseridlar",
+                "xolesterin",
+                "gormonlar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "210. Yurak ishemik kasalligida giperlipoproteinemiyalarning qaysi turi ko‘p uchraydi:",
+            "options": [
+                "I",
+                "II",
+                "III",
+                "V"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "211. Giperlipoproteinemiyalarning qaysi turida lipoproteinlipaza faolligi pasaygan bo‘ladi:",
+            "options": [
+                "II",
+                "I",
+                "III",
+                "V"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "212. Xolesterin miqdori oshishi mumkin:",
+            "options": [
+                "estrogenlar ko‘p miqdorda hosil bo‘lganda",
+                "obturatsion sariqlikda",
+                "gipertireoidizmda",
+                "jigar sirrozida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "213. Me’yordagi plazmaning osmotik bosimi:",
+            "options": [
+                "600 mosmol/l",
+                "300 mosmol/l",
+                "30 mm.rt.st",
+                "100 mm.rt.st"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "214. Biologik suyuqliklarning osmotik xususiyatlari bog‘liq:",
+            "options": [
+                "elektrolitlar miqdoriga",
+                "erigan moddalarning summar miqdoriga",
+                "noelektrolitlar miqdoriga",
+                "moddalarning molekular massasiga"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "215. Qon zardobida onkotik bosim nima bilan bog‘liq:",
+            "options": [
+                "ionlar",
+                "oqsillar",
+                "lipidlar",
+                "quyimolekular azot birikmalari"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "216. Qon zardobida temir yuqori darajada qaysi kasalliklarda uchraydi:",
+            "options": [
+                "enterokolit",
+                "o‘tkir gepatit",
+                "limfogranulematoz",
+                "me’da osti bezi o‘smasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "217. Konyugirlangan bilirubin fraksiyasi qachon qonda ko‘payadi: posttransfuzion gemoliz",
+            "options": [
+                "virusli gepatit chaqaloqlar",
+                "fiziologik sariqligi",
+                "obturatsiyada"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "218. Konyugirlanmagan bilirubin fraksiyasi qachon qonda ko‘payadi:",
+            "options": [
+                "jigar biliar sirrozi",
+                "Jilber sindromi",
+                "parenximatoz gepatit",
+                "obturatsion sariqlik"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "219. Qon ivishi boshlanishining initsiatori:",
+            "options": [
+                "faktor X",
+                "faktor XII",
+                "prekallikrein",
+                "protrombin"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "220. Trombotsitar-qon tomir gemostaziga tegishli funksiya:",
+            "options": [
+                "proteoliz",
+                "adgeziv-agregatsion",
+                "gidroliz",
+                "fibrinoliz"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "221. Antikoagulyant ta’sirga ega:",
+            "options": [
+                "plazminogen",
+                "antitrombin III",
+                "streptokinaza",
+                "ADF"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "222. Trombin hosil bo‘lishiga qarshilik qiladi:",
+            "options": [
+                "kalsiy ionlari",
+                "antitrombin III",
+                "kininogen",
+                "Villebrant omili"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "223. Trombozoldi holatiga xos:",
+            "options": [
+                "gipokoagulyatsiya",
+                "trombotsitlar agregatsiya va adgeziyasi oshishi",
+                "gipofibrinogenemiya",
+                "trombotsitopatiya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "224. Bilvosita antikoagulyantlar ta’siri nazorat qilinadi:",
+            "options": [
+                "fibrin degidrotatsiyasi mahsuloti bilan",
+                "protrombin vaqti bilan",
+                "qon ivish vaqti bilan",
+                "antitrombin III bilan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "225. DVS-sindrom surunkali shakli diagnostikasida eng ahamiyatli test:",
+            "options": [
+                "trombin vaqti",
+                "fibrin degidrotatsiyasi mahsuloti",
+                "euglobulin laxtasining lizis vaqti",
+                "fibrinogen"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "226. Mielom kasalligi tashxisini qo‘yishdagi muhim bo‘lgan tekshiruvlar qaysilar:",
+            "options": [
+                "EChTgini aniqlash",
+                "Qon zardobida umumiy oqsilni va patologik immunoglobulinlarni aniqlash",
+                "Siydikda Bens-Djons oqsilini aniqlash, mielogrammada plazmatik hujayralarning ko‘payishi",
+                "Barcha tekshiruvlar muhim"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "227. Ovqat hazm qilish trakti barcha qismi shilliq qavatida uchraydi:",
+            "options": [
+                "bosh hujayralar",
+                "qadahsimon mukotsitlar",
+                "qoplovchi hujayralar",
+                "kayomkali hujayralar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "228. Seroz qavatlar hujayra elementi:",
+            "options": [
+                "neytrofil",
+                "mezoteliy",
+                "limfotsit",
+                "makrofag"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "229. Hujayra osti organellasi hisoblanadi:",
+            "options": [
+                "mitoxondriya",
+                "yadrocha",
+                "lizosoma",
+                "Goldji apparati"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "230. Mitoxondriyalar hujayrani nima bilan ta’minlaydi:",
+            "options": [
+                "anaerob glikoliz",
+                "ATF sintezlaydi",
+                "detoksikatsiya",
+                "sekret ishlab chiqaradi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "231. Antioksidantlarga kirmaydi:",
+            "options": [
+                "vitamin E",
+                "yog‘ kislotalar",
+                "ayollar jinsiy gormonlari xolesterin"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "232. Qon hosil bo‘lishida qatnashuvchi o‘zak hujayra qaysi hujayra morfologiyasiga ega:",
+            "options": [
+                "blast hujayra",
+                "kichik limfotsit",
+                "monotsit",
+                "fibroblast"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "233. \"anizotsitoz\" termini bildiradi:",
+            "options": [
+                "turli shakldagi eritrotsitlar",
+                "turli diametrdagi eritrotsitlar",
+                "turli intensivlikda bo‘yalgan eritrotsitlar",
+                "eritrotsitlarning kam miqdori"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "234. Granulotsitlar qayerda hosil bo‘ladi:",
+            "options": [
+                "taloqda",
+                "suyak ko‘migida",
+                "limfatik tugunlarda",
+                "jigarda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "235. Qon plastinkalari hosil bo‘ladi:",
+            "options": [
+                "Taloqda",
+                "Suyak ko‘migida",
+                "Limfatik tugunlarda",
+                "Jigarda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "236. Hujayrada yadroning funksiyasi:",
+            "options": [
+                "ATF sintezi",
+                "genetik axborot tashish va realizatsiyasini ta’minlash",
+                "fermentlarni faollash",
+                "oqsil sintezi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "237. O‘tkir leykoz variantini aniqlashda eng ko‘p ma’lumot beradi:",
+            "options": [
+                "periferik qon surtmasi",
+                "sitoximik usul",
+                "suyak ko‘migi punktati",
+                "quymich suyak trepanobiopsiyasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "238. Eritrotsitlarning maxsus komponenti:",
+            "options": [
+                "glikogen",
+                "gemoglobin",
+                "ATF",
+                "glyutation – reduktaza"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "239. Blast hujayralarda yadro-sitoplazma nisbati:",
+            "options": [
+                "sitoplazma hisobiga",
+                "yadro hisobiga",
+                "ahamiyati yo‘q",
+                "har xil nisbatda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "240. Leykozlarda \"klon\" kelib chiqishga ega deganda nima tushuniladi:",
+            "options": [
+                "leykoz hujayralar anaplaziyasi",
+                "mutatsiyaga uchragan hujayra avlodi",
+                "hujayralarning yangi xususiyatlarga ega bo‘lishi",
+                "leykoz hujayralarning yangi shakllari paydo bo‘lishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "241. Buyraklarning asosiy struktur – funksional birligi-bu:",
+            "options": [
+                "kanalcha",
+                "nefron",
+                "yig‘uvchi naycha",
+                "koptokcha"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "242. Poykilotsitoz-bu:",
+            "options": [
+                "eritrotsitlar o‘lchami",
+                "eritrotsitlar shakli",
+                "eritrotsitlar hajmi",
+                "hammasi to‘g‘ri"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "243. Gemoglobinning oqsil qismi:",
+            "options": [
+                "albumin",
+                "globin",
+                "gaptoglobin",
+                "transferrin"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "244. Ohaklangan elastik tolalar qachon aniqlanadi:",
+            "options": [
+                "o‘smalarda",
+                "bronxopnevmoniyada",
+                "silda",
+                "aktinomikozda"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "245. Yadroning hujayrada bajaradigan funksiyasi:",
+            "options": [
+                "atf sintezi",
+                "genetik axborot tashish va realizatsiyasini ta’minlash",
+                "fermentlarni aktivlash",
+                "oqsil sintezi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "246. Qaysi hollarda axlatning nordon reaksiyasi kuzatiladi:",
+            "options": [
+                "Dispepsiya",
+                "Brodil dispepsiya",
+                "O‘tkir enterit",
+                "Axiliya"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "247. Bachadon bo‘yinchasining qin qismidan olingan surtmalarda silindrik hujayralarning aniqlanishi nimani bildiradi:",
+            "options": [
+                "giperkeratoz",
+                "eroziya",
+                "ektopiya",
+                "atrofiya"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "248. Ribosomalarda sintezlanadi:",
+            "options": [
+                "DNK",
+                "oqsil",
+                "RNK",
+                "uglevod"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "249. Najas tekshiruvidan oldin bemorlar qaysi preparat qabul qilishi mumkin emas:",
+            "options": [
+                "surgi dorilari",
+                "vismut preparatlari",
+                "siydik haydovchi",
+                "aspirin"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "250. Ertalabki siydikning o‘rtacha solishtirma og‘irligining me’yori:",
+            "options": [
+                "1,000",
+                "1,015",
+                "1,040",
+                "1,004"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "251. Me’da o‘smalarida material olishning ratsional usuli:",
+            "options": [
+                "me’da yuvilganda olingan suyuqlik",
+                "gastroskopiya orqali olingan material",
+                "me’da shirasi",
+                "balg‘am"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "252. Mezotelioma nimadan rivojlanadi:",
+            "options": [
+                "epitelial to‘qimadan",
+                "seroz to‘qimadan",
+                "biriktiruvchi to‘qimadan",
+                "mushak to‘qimasidan"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "253. Ginekologiyada sitologik skriningning maqsadi:",
+            "options": [
+                "gormonal holatni aniqlash",
+                "predrak va erta o‘smalarni aniqlash",
+                "bepushtlikni yo‘qotish",
+                "bachadon bo‘yinchasining tarqoq shakldagi o‘smalarini aniqlash"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "254. Hujayra organellalari-bu:",
+            "options": [
+                "yadroning vaqtincha komponentlari",
+                "sitoplazmaning doimiy komponentlari",
+                "yadroning doimiy komponentlari",
+                "hammasi to‘g‘ri"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "255. Hujayra kiritmalari bu:",
+            "options": [
+                "yadroning doimiy komponentlari",
+                "sitoplazmaning doimiy komponentlari",
+                "sitoplazmaning vaqtincha komponentlari",
+                "hammasi to‘g‘ri"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "256. Oqsil sintezi qayerda amalga oshadi:",
+            "options": [
+                "lizosomalarda",
+                "ribosomalarda",
+                "Goldji kompleksida",
+                "lizosoma va Goldji kompleksida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "257. Ribosomalarning asosiy funksiyasi:",
+            "options": [
+                "glikogen sintezi",
+                "oqsil sintezi",
+                "DNK sntezi",
+                "ajratuvchi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "258. Genetik axborot joylashadi:",
+            "options": [
+                "yadro membranasida",
+                "yadro DNK sida",
+                "yadrochada",
+                "nukleoplazmada"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "259. Yadrocha asosan saqlaydi:",
+            "options": [
+                "glikogen",
+                "RNK",
+                "DNK",
+                "yog‘"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "260. Plazmatik hujayralar hosil bo‘ladi:",
+            "options": [
+                "makrofaglardan",
+                "B-limfotsitlardan",
+                "fibroblastlardan",
+                "limfotsitlardan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "261. O‘zak qon hujayrasining funksiyasi:",
+            "options": [
+                "transport",
+                "o‘z-o‘zini saqlash, differensirovka",
+                "trofik",
+                "himoya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "262. “o‘ngga siljish” xos:",
+            "options": [
+                "o‘tkir leykozlarga",
+                "megaloblast anemiyaga",
+                "surunkali leykozlarga",
+                "o‘tkir yuqumli kasalliklarga"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "263. Ushbu funktsiyalarning qaysi biri oqsilning biologik funktsiyasi emas: Transport",
+            "options": [
+                "Himoya",
+                "Tarkibiy",
+                "Energiya"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "264. Odatda inson qonida qancha protein mavjud:",
+            "options": [
+                "65-80 g / l",
+                "70-90 g / l",
+                "120-140 g / l",
+                "140-180 g / l"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "265. Bemorda takroriy azotemiyaga olib keladigan sabab:",
+            "options": [
+                "gepatit",
+                "surunkali buyrak kasalligi",
+                "pnevmoniya",
+                "oshqozon yarasi kasalligi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "266. Ushbu kasalliklarning qaysi biri uglevod almashinuvining buzilishi emas:",
+            "options": [
+                "qandli diabet",
+                "Galaktozemiya",
+                "Hipotiroidizm",
+                "Gipertiroidizm"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "267. Ushbu biologik funktsiyalardan qaysi biri lipidlarning asosiy funktsiyasidir:",
+            "options": [
+                "Transport",
+                "Himoya",
+                "Energiya",
+                "Tarkibiy"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "268. Naftoxin on qaysi vitaminlar guruhiga kiradi:",
+            "options": [
+                "E Vitamini",
+                "D Vitamini",
+                "K Vitamini",
+                "Vitamin B12"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "269. Ushbu vitaminlardan qaysi biri yog'li:",
+            "options": [
+                "Piridoksin",
+                "Biotin",
+                "V. Retinol",
+                "G. Riboflavin"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "270. Qalqonsimon bezda hosil bo‘ladi:",
+            "options": [
+                "tireoliberin",
+                "triyodtironin",
+                "tirozin",
+                "tireoglobulin"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "271. Tarkibiy qismi noma’lum bo‘lgan nazorat zardobi, sizga quyidagilarga imkon beradi:",
+            "options": [
+                "tizimli xatolarni aniqlashga",
+                "tasodifiy xatolarni aniqlashga –",
+                "grafik tuzishga",
+                "natijalarni to‘g‘riligini tekshirishga"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "272. Ko‘rsatilgan qaysi holatlar surunkali limfoleykoz uchun xarakterli:",
+            "options": [
+                "leykotsitlar normada va ozroq limfotsitoz (40% gacha)",
+                "limfotsitozli (80% gacha va ko‘p) leykotsitoz",
+                "neytrofilez leykotsitoz",
+                "eozinofilli leykotsitoz"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "273. Leykotsitar o‘ngga siljish nima:",
+            "options": [
+                "bu periferik qonda yosh leykotsitlarni paydo bo‘lishi. Tayoqcha yadroli neytrofillarning ko‘payishi va mielotsitlargacha siljishi kuzatiladi",
+                "bu qonda yosh va degenerativ o‘zgargan leykotsitlar shaklining paydo bo‘lishi",
+                "bu qonda faqat tayoqcha yadroli neytrofillarning paydo bo‘lishi",
+                "bu qonda degenerativ o‘zgargan leykotsitlar shaklining paydo bo‘lishi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "274. B12-tanqis anemiyalarda periferik qonda qaysi shakldagi neytrofillar paydo bo‘ladi:",
+            "options": [
+                "toksogen donador neytrofillar",
+                "gipersegmentlangan neytrofillar",
+                "sitoplazmada donadorlik kamaygan neytrofillar",
+                "piknotik yadroli neytrofillar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "275. Periferik qondagi surtmada quyidagi shakldagi eritrotsitlar aniqlandi: makrotsitlar, megalotsitlar, Jolli tanali va Kabo halqali eritrotsitlar, poykilotsitoz. Qaysi anemiya haqida o‘ylash mumkin:",
+            "options": [
+                "temir tanqislik anemiyasi",
+                "B12 – folat tanqislik anemiyasi",
+                "talassemiya",
+                "Minkovskiy-Shoffar anemiyasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "276. Bemorda me’da rezeksiyasidan uch yil o‘tgach anemiya belgilari paydo bo‘ldi. Qon tahlili: er.2,3*1012/l, Hb 92 g/l, rang ko‘rs. l,2, makrova megalotsitoz. Qaysi anemiya haqida o‘ylash mumkin:",
+            "options": [
+                "temir tanqislik anemiyasi",
+                "B12 –folat tanqislik anemiyasi",
+                "o‘roqsimon hujayrali anemiya",
+                "talassemiya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "277. Bemorda eritrotsitlar miqdori 3500/mkl, Hb-70g/l, rang. ko‘rs.0,6.Qonda keskin gipoxromiya, mikrotsitoz tomonga anizotsitoz. Agar bemor anamnezida tez-tez, kam-kam qon yo‘qotishlar borligini hisobga olib, qaysi anemiyani o‘ylash mumkin:",
+            "options": [
+                "B12 –folat tanqislik anemiyasi",
+                "temir tanqislik anemiyasi",
+                "gemolitik anemiya",
+                "o‘tkir postgemorragik anemiya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "278. Qaysi kasallikda doimiy proteinuriya kuzatiladi:",
+            "options": [
+                "o‘tkir leykoz",
+                "mielom kasalligi",
+                "surunkali mieloleykoz",
+                "limfogranulematoz"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "279. Qaysi elementning bo‘lishi balg‘amning tipik belgisi hisoblanadi:",
+            "options": [
+                "Fibrin",
+                "Alveolyar makrofaglar",
+                "Kurshman spirallari",
+                "Elastik tolalar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "280. Nazorat zardobida ishlaganda xatolar bo‘lishi mumkin:",
+            "options": [
+                "Ampulani ochishda moddaning yo‘qotilishi",
+                "Namunani eritish vaqtiga rioya qilmaslik",
+                "Qaytadan muzlatilgan va xona haroratida nazorat zardobini saqlash",
+                "Yuqorida aytilganlarning hammasi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "281. O‘pkaning periferik rakida biomaterial olishning qaysi usuli eng samarali hisoblanadi:",
+            "options": [
+                "Balg‘amni va bronxlar yuvindisini tekshirish",
+                "Bronxlardan soskob olish",
+                "Transtorakal punksiya",
+                "Bronxlar aspiratsiyasi"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "282. Qaysi o‘pka kasalliklarida surtmada fibrin, eozinofillar, kurshman spirallari, Sharko-Leyden kristallari aniqlanadi:",
+            "options": [
+                "krupoz pnevmoniya",
+                "bronxial astma",
+                "tuberkulez",
+                "surunkali pnevmoniya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "283. Sil mikobakteriyalarini aniqlash uchun balg‘am qaysi usulda bo‘yaladi: Leyshman",
+            "options": [
+                "Sil-Nilsen",
+                "Gramm",
+                "Romanovskiy-Gimza"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "284. Siydikda oqsil qaysi usul bilan aniqlanadi:",
+            "options": [
+                "Gaynes sinamasi",
+                "Sulfasalitsil kislota sinamasi",
+                "Rozin sinamasi",
+                "Bogomolov sinamasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "285. Natijalar ishonchliligini va samaradorligini oshirish uchun seroz suyuqliklarning qaysi qismi laboratoriyaga jo‘natilishi kerak:",
+            "options": [
+                "Birinchi va ikkinchi porsiyani",
+                "Hamma porsiyalarni",
+                "Birinchi va oxirgi porsiyalarni",
+                "Oxirgi porsiyani"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "286. Bachadon bo‘yinchasining qin qismi qaysi epiteliy bilan qoplangan:",
+            "options": [
+                "silindrik epiteliy",
+                "ko‘p qavatli yassi muguzlanmaydigan epiteliy",
+                "o‘tuvchi epiteliy",
+                "ko‘p qavatli yassi muguzlanuvchi epiteliy"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "287. Xatoni aniqlab bo‘lmaydi:",
+            "options": [
+                "Parallel namuna usuli orqali, analitik usulni tanlash bilan",
+                "Tahlillarni ketma-ket ro‘yxatdan o‘tkazganda",
+                "Natijani tashrif buyurgan shifokor bilan muhokama qilganda",
+                "Natijani o‘lchov birlik tizimida qayta hisoblash"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "288. Ko‘p qavatli yassi muguzlanmaydigan epiteliy turli qavati hujayralarining nisbati qaysi indeks bilan ifodalanadi:",
+            "options": [
+                "kariopiknotik indeks",
+                "yetilish indeksi",
+                "burmalanish indeksi guruhlanish indeksi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "289. Bachadon bo‘yinchasining qaysi patologiyasida surtmalarda piknotik yadroli yuza hujayralar orasida yadrosiz hujayralar aniqlanadi:",
+            "options": [
+                "poliplar",
+                "leykoplakiya",
+                "psevdoeroziya",
+                "displaziya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "290. O‘smaning qaysi gistologik turida preparatlarda kattalashgan, giperxrom yadroli va sitoplazmada vakuolizatsiyasi bo‘lgan bezsimon strukturalar aniqlanadi:",
+            "options": [
+                "yassi hujayrali muguzlanuvchi rak",
+                "adenokarsinoma",
+                "yassi hujayrali muguzlanmaydigan rak",
+                "mayda hujayrali rak"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "291. «Klonlangan» leykoz kelib chiqishi tushunchasi qanday tushuniladi:",
+            "options": [
+                "Hujayralar tomo nidan yangi xususiyatlarga ega bo‘lish",
+                "Leykoz hujayralarning anaplaziyasi",
+                "Mutatsiyaga uchragan hujayraning avlodi",
+                "Leykoz hujayralarining har xil morfologiyaliligi"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "292. O‘smaning qaysi gistologik turida preparatlarda dumaloq, oval, zunchoq giperxrom yadroli va sitoplazmasida muguzlanish alomatlari bo‘lgan hujayralar niqlanadi:",
+            "options": [
+                "adenokarsinoma",
+                "yassi hujayrali muguzlanuvchi rak",
+                "mayda hujayrali rak",
+                "yassi hujayrali muguzlanmaydigan rak"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "293. Papilloma virus infeksiyasida qaysi hujayralar aniqlanadi:",
+            "options": [
+                "epitelioid hujayralar",
+                "koylotsitlar",
+                "Xodjkin hujayralari",
+                "Pirogov-Langxans hujayralari"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "294. Quyidagi qaysi moddalar trombotsitlar agregatsiyasiga qarshi ta’sir ko‘rsatadi:",
+            "options": [
+                "adrenalin",
+                "trombin",
+                "aspirin, plaviks",
+                "ADF"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "295. DVS-sindrom belgilari bilan bemor qabul qilindi. Qaysi testlarni amalga oshirish zarur:",
+            "options": [
+                "trombotsitlar adgeziyasi, agregatsiyasiga test",
+                "D-dimer, PDF",
+                "fibrinogen",
+                "prothrombin"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "296. Bog‘lanmagan bilirubin qaysi kasalliklarda oshadi:",
+            "options": [
+                "me’da osti bezi o‘smasi",
+                "Krigler-Nayyar sindromi, Jilber kasalligi, eritrotsitlar gemolizi",
+                "o‘t qopi tosh kasalligi",
+                "ichak sili"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "297. O‘tkir yallig‘lanish jarayonlarida qaysi oqsil fraksiyasi oshadi:",
+            "options": [
+                "albuminlar",
+                "alfa globulinlar",
+                "beta -globulinlar",
+                "gammaglobulinlar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "298. Surunkali yallig‘lanish jarayonlarida qaysi oqsil fraksiyasi oshadi:",
+            "options": [
+                "alfa1-globulinlar",
+                "gammaglobulinlar",
+                "alfa2-globulinlar",
+                "beta –globulinlar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "299. O‘tkir pankreatit diagnozi bilan xastalangan bemorga qaysi tekshiruvni amalga oshiriladi:",
+            "options": [
+                "ALT",
+                "qonda va siydikda alfa-amilaza, amilozo-kreatinin klirensi",
+                "GGTP",
+                "KFK"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "300. Miokard infarkti bilan 2-kun xastalangan bemorga qaysi tekshiruv o‘tkazish kerak:",
+            "options": [
+                "ALT",
+                "KFK",
+                "Xolinesteraza",
+                "AST"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "301. Suyak tizimi kasalliklarida qaysi ferment tekshiriladi:",
+            "options": [
+                "ALT",
+                "Ishqoriy fosfataza",
+                "Gamma-glyutamiltranspeptidaza",
+                "Xolinesteraza"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "302. Prostata bezi patologiyasida tekshirish uchun kerakli fermentni tanlang:",
+            "options": [
+                "KFK",
+                "Kislotali fosfataza",
+                "Gammaglyutamiltranspeptidaza",
+                "AST"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "303. O‘tkir gepatitni erta aniqlash uchun kerakli fermentni tanlang:",
+            "options": [
+                "KFK",
+                "ALT",
+                "Alfa-amilaza",
+                "Xolinesteraza"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "304. Qonda qand miqdorini oshiruvchi gormonni ko‘rsating:",
+            "options": [
+                "Insulin",
+                "Adrenalin, glyukokortikoidlar, kortizon",
+                "Testosteron",
+                "Progesteron"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "305. Uglevodlarning hazm bo‘lishi qayerda kechadi:",
+            "options": [
+                "Yo‘g‘on ichaklarda",
+                "Me’dada",
+                "Ingichka ichaklarda",
+                "Og‘iz bo‘shlig‘ida"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "306. Bemor 40 yoshda, plazmasi tiniq, xolesterin 7,3 mmol/l, xs-lpvp-0,88 mmol/l, aterogen indeks -7,1. Lipid spektrini qanday baholaysiz:",
+            "options": [
+                "Normal xarakterdagi spektr",
+                "Aterogen xarakterdagi spektr, giperxolesterinemiya",
+                "Gipoxolesterinemiya",
+                "Disproteinemiya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "307. Beta-gidroksimoy kislotasi oksidlanganda keton tanalariga xos qaysi kislota hosil bo‘ladi:",
+            "options": [
+                "Limon",
+                "Asetouksus",
+                "Sirka",
+                "Fumar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "308. Umumiy oqsilni aniqlash qanday holatni baho berolmaydi:",
+            "options": [
+                "Normoproteinemiyaga",
+                "Disproteinomiyaga",
+                "Giperproteinemiya va gipoproteienemiyaga",
+                "Barcha ko‘rsatib o‘tilgan holatlarga"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "309. Qonda lipidlar miqdorini qaysi gormonlar oshiradi:",
+            "options": [
+                "Estrogenlar",
+                "Adrenalin",
+                "Tiroksin",
+                "Insulin"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "310. Trombotsitar-tomir gemostazini ifodalovchi testlarni ko‘rsating:",
+            "options": [
+                "Protrombin",
+                "Trombotsitlar retraksiya, agregatsiyasi",
+                "AChTV",
+                "Fibrinogen"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "311. Trombin hosil bo‘lishini nazorat qiluvchi testni ko‘rsating:",
+            "options": [
+                "Trombin vaqti",
+                "Protrombin vaqti",
+                "Fibrinaza faolligi",
+                "Plazmaning geparinga tolerantligi"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "312. Qaysi holatlarda produksion azotemiya kuzatiladi:",
+            "options": [
+                "Nefrit",
+                "Qandli diabet",
+                "Nefroskleroz",
+                "Pielonefrit"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "313. Qaysi holatlarda retension azotemiya kuzatiladi:",
+            "options": [
+                "Surunkali gepatit",
+                "Surunkali buyrak kasalliklari",
+                "Jigar sirrozi",
+                "Yurak ishemik kasalligi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "314. Absolyut giperproteinemiya kuzatiladi:",
+            "options": [
+                "Buyraklar kasalligi",
+                "Mielom kasalligi",
+                "Miokard infarkti",
+                "Me’da-ichak tizimi kasalliklari"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "315. Jigarning alkogol shikastlanishining arker bo‘lgan fermentni ko‘rsating:",
+            "options": [
+                "Xolinesteraza",
+                "Gamma-glyutamiltranspeptidaza",
+                "KFK",
+                "Alfa-amilaza"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "316. Seruloplazminning asosiy funksiyalarini ko‘rsating:",
+            "options": [
+                "Temir transport oqsili",
+                "Yallig‘lanish o‘tkir faza oqsili, mis transport oqsili, antioksidant",
+                "Kalsiy transport oqsili",
+                "Antikoagulyant"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "317. Prostata bezi rakida diagnoz qo‘yishda qaysi fermentning zardobdagi aktivligi aniqlanadi:",
+            "options": [
+                "Alfa-amilaza",
+                "Ishqoriy fosfataza",
+                "KK",
+                "Kislotali fosfataza"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "318. O‘tkir virusli gepatit sariqlik oldi davrida zardobdagi qaysi ferment aktivligi aniqlanadi:",
+            "options": [
+                "AST",
+                "Alfa-amilaza",
+                "Sorbitoldegidrogenaza",
+                "Gistidaza"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "319. O‘tkir pan kreatitni 1-kunida alfa-amilazani qayerda aniqlash maqsadga muvofiq:",
+            "options": [
+                "Siydik",
+                "Qon",
+                "So‘lak",
+                "Oshqozon saqlamasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "320. Siydikda Bens-Djons oqsili qachon paydo bo‘ladi:",
+            "options": [
+                "og‘ir jismoniy zo‘riqishdan keyin",
+                "mielom kasalligi",
+                "tana harorati ko‘tarilganda",
+                "siydik-tosh kasalligida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "321. Qaysi infeksiya aniqlanilganda gonoreyaga tekshirish maqsadga muvofiq bo‘ladi:",
+            "options": [
+                "virusli infeksiya",
+                "trixomonada",
+                "streptokokk infeksiyasi",
+                "stafilokokk infeksiyasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "322. Tahlil natijalarining aniq bo‘lishi uchun quyidagilarni bajarish kerak:",
+            "options": [
+                "Takomillashgan usuldan foydalanish",
+                "Kalibratordan foydalanish, asbob aniq ishlashi",
+                "Sifatli reagentlardan foydalanish",
+                "Yuqorida aytilganlarning hammasi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "323. Klinik diagnostika laboratoriyalari faoliyatida analitlar normasini tavsiflash uchun qaysi qiymatlariga asoslanishi kerak:",
+            "options": [
+                "Murojaatnomalarda keltirilgan",
+                "Reaktiv yo‘riqnomasidan olingan ma’lumot",
+                "Nazorat zardobi qiymatlari",
+                "Ushbu hudud uchun ishlab chiqilgan va laboratoriya yo‘riqnomasida ko‘rsatilgan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "324. Homiladorlik davrida qonda miqdori oshadi:",
+            "options": [
+                "adrenalin",
+                "progesteron",
+                "glyukokortikoidlar",
+                "glyukagon"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "325. Qandsiz diabet rivojlanadi:",
+            "options": [
+                "somatotrop gormon oshganda",
+                "vazopressin yetishmaganda",
+                "miksedemada",
+                "glyukokortikoidlar sekresiyasi oshganda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "326. Helicobacter pylori ni qaysi usul bilan aniqlash mumkin:",
+            "options": [
+                "intragastral pH-metriya",
+                "qon umumiy analizi",
+                "uropepsinogenni aniqlash",
+                "13S-nafas testi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "327. Berezovskiy-Shternberg va Xodjkin hujayralari qaysi kasallikning diagnostik elementi hisoblanadi:",
+            "options": [
+                "gistiotsitoz",
+                "limfogranulomatoz",
+                "sarkoidoz",
+                "o‘tkir leykoz"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "328. Limfogranulomatozda qaysi hujayralar diagnostik ahamiyatga ega:",
+            "options": [
+                "epitelioid",
+                "Berezovskiy-Shternberg hujayralari",
+                "hujayralar",
+                "limfoid hujayralar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "329. Limfa tugunlarining qaysi kasalligida epitelioid hujayralar va Pirogov Langxans hujayralari aniqlanadi:",
+            "options": [
+                "limfogranulomatoz",
+                "sil",
+                "limfoblast sarkoma",
+                "Berkit limfomasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "330. EChTga ta’sir ko‘rsatuvchi qaysi omil asosiy, hal qiluvchi hisoblanadi:",
+            "options": [
+                "leykotsitlar miqdori",
+                "disproteinemiya (qonda globulinlar va albuminlar muvozanatini buzilishi)",
+                "o‘t kislotalari konsentratsiyasining oshishi",
+                "organizmning kislota asos muvozanati"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "331. EChTga ta’sir ko‘rsatuvchi asosiy omilni ko‘rsating:",
+            "options": [
+                "Leykotsitlar miqdori",
+                "Leykotsitlar va eritrotsitlar miqdori",
+                "Disproteinemiya",
+                "O‘t kislotalari konsentratsiyasining oshishi"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "332. Qaysi infeksiya bilan gonokoklar endotsitobiozi kuzatiladi:",
+            "options": [
+                "kandidoz",
+                "trixomonoz",
+                "virus",
+                "bacterial"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "333. Bemorda sariqlik bilan qon zardobida alt < ast< γ-gtp xos:",
+            "options": [
+                "O‘tkir virusli gepatit a",
+                "Jigarning alkogolli shikastlanishi",
+                "O‘tkir virusli gepatit B",
+                "Gemolitik sariqlik"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "334. XIII faktor defitsiti kuzatiladi:",
+            "options": [
+                "DVS-sindromda",
+                "O‘tkir mieloleykozda",
+                "Jarrohlik amaliyotidan keyin",
+                "Jigar kasalliklarida"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "335. Fibrinogen diagnostik ahamiyati:",
+            "options": [
+                "Insult va miokard infarktini aniqlashda",
+                "Koagulyatsiyada asosiy faktor",
+                "O‘tkir faza oqsili",
+                "Trombotsitlar agregatsiyasining kofaktori"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "336. Protrombin vaqti quyidagining qaysi birida oshmaydi:",
+            "options": [
+                "Tugma II, V,VII,X, faktor defitsitida",
+                "Jigar parenximasining surunkali kasalliklarida",
+                "Vitamin K defitsitida",
+                "Tromboz, giperkoagulyatsiya holati"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "337. Qon ketish vaqtining uzayishi kuzatiladi:",
+            "options": [
+                "Trombotsitopatiyalarda",
+                "Turli genezdagi trombotsitopeniyalarda",
+                "DVS-sindrom",
+                "Aspirin, geparin, dezagregantlar bilan davolaganda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "338. Gemopoetik o‘zak hujayralar xarakterlanadi:",
+            "options": [
+                "Chegaralanmagan proliferatik qobiliyat",
+                "Polipotentlik",
+                "Diferensiatsiyalikka chegeralangan qobiliyat",
+                "O‘zini qo‘llashga va tiklashga qodir emas"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "339. Zardobda plazminogen miqdori kamayadi:",
+            "options": [
+                "Jigarning og‘ir xastaliklarida",
+                "Fibrinolitiklar bilan davolaganda",
+                "DVS-sindrom",
+                "Yuqoridagilarning barchasi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "340. Uch kunlik malyariyaning oddiy kechuvi (davosiz) qancha vaqt davom etadi:",
+            "options": [
+                "1 yil",
+                "6 oy",
+                "Yarim yil",
+                "Ikki yil"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "341. Malyariya sporogoniysiga kirmaydi:",
+            "options": [
+                "Ootsista",
+                "Zigota",
+                "Shizont",
+                "Sporozoit"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "342. Afrikalik bemorda malyariya paraziti topildi. Qay biri haqida",
+            "options": [
+                "o‘ylashimiz mumkin: P.ovale",
+                "P.vivax",
+                "P.malariae",
+                "P.falciparum"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "343. Malyariyada qonni Romanovskiy bo‘yicha bo‘yalganida, suvning pH i nechiga teng bulish kerak:",
+            "options": [
+                "6,8",
+                "6,6",
+                "7,0",
+                "7,6"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "344. Tashqi omil ta’siriga qaysi gelmintlarning tuxumlari chidamli:",
+            "options": [
+                "Karlikoviy sepen",
+                "Askarida",
+                "Vlasoglav",
+                "Ankilastomatid"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "345. Amebiaz kasalligi bilan kasallangan bemorning shilliq-qon ajralmasidan topish mumkin:",
+            "options": [
+                "Sporalar",
+                "Sistalar",
+                "Gemofaglar",
+                "Polifaglar"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "346. Laboratoriya ichida quyidagilarning qay biri bilan zararlanish mumkin:",
+            "options": [
+                "Askaridoz, difillobotrioz",
+                "Enterebioz, sistitserkoz, gimenolepidoz",
+                "Teniarinxoz",
+                "Nekatoroz"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "347. Bo‘yalgan preparatni chayayotgan paytda, qalin qon tomchisi yuvilib ketdi. Bu nima bilan bog‘liq:",
+            "options": [
+                "Ehtiyotlik bilan yuvilgan",
+                "Tomchi yetarli quritilmagan",
+                "Tomchi judayam qalin qilingan",
+                "Tomchi judayam yupqa qilingan"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "348. Laboratoriyaga bir hafta oldin tayyorlangan qalin qon tomchisini olib kelindi. Ularni bo‘yash uchun:",
+            "options": [
+                "Bo‘yashdan oldin qalin qon tomchisini fiksatsiya qilinadi",
+                "Romanovskiy bo‘yog‘ini quyamiz",
+                "Oldin preparatning ustiga 10-15 min.ga dis.suv quyib keyin Romanovskiy bo‘yicha bo‘yaladi",
+                "Oldin preparatning ustiga 10-15 min.ga fiz.rastvor quyib keyin Romanovskiy bo‘yicha bo‘yaladi"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "349. Koprologik tekshiruv uchun bemorning najasini qay haroratda saqlanishi lozim: -",
+            "options": [
+                "-3 gradus haroratda",
+                "Xona haroratida",
+                "-10 gradus haroratda",
+                "+3 yoki +5 haroratda"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "350. Sodda hayvonlarniningt sistalarini topish mumkin:",
+            "options": [
+                "Shilliq-qon aralash najasda",
+                "shakllangan najasda",
+                "Rektoroskopiyadagi shilliq va yuvindilarda",
+                "Duodenal ajralmada"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "351. Sodda hayvonlarni vegetativ shaklini aniqlashda najas qancha vaqt oralig‘ida tekshirilishi kerak:",
+            "options": [
+                "2-3 soatdan so‘ng",
+                "40-60 daqiqadan so‘ng",
+                "15-20 daqiqadan so‘ng",
+                "Ertasi kuniga"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "352. Najasda sodda hayvonlar bor yo‘qligi haqidagi yakuniy xulosa aytiladi:",
+            "options": [
+                "Birinchi tekshiruvdan so‘ng",
+                "Ikkinchi tekshiruvdan so‘ng",
+                "Uchinchi tekshiruvdan so‘ng",
+                "Turtinchi-beshinchi tekshiruvdan so‘ng"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "353. Axlatda sodda hayvonlarni aniqlash uchun qanday preparat tayyorlanadi:",
+            "options": [
+                "Lyugol eritmali preparat",
+                "Nativ preparat",
+                "Nativ va lyugol eritmali preparat",
+                "Gaydengam bo‘yicha bo‘yalgan preparat"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "354. Sodda hayvonlar formasiga kiradi:",
+            "options": [
+                "T.hominis",
+                "E.coli",
+                "E.histolitica (magna)",
+                "E.nana"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "355. O‘tkir ichakli amebiazni aniqlashda topish kerak:",
+            "options": [
+                "E.histoliticaning sistalari",
+                "E.histoliticaning vegetativ shakli",
+                "E.histoliticaning boshqa shakllarini",
+                "Yuqoridagilarning barchasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "356. E.histolitica ning «ulg‘aygan» sistasi uchun xos:",
+            "options": [
+                "2 yadro",
+                "1 yadro",
+                "4 yadro",
+                "8 yadro"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "357. E.histolitica ning patogen shakliga xos:",
+            "options": [
+                "Sekin kam harakatlilik",
+                "Aktiv to‘g‘ri harakat",
+                "Tebranuvchi harakat",
+                "Harakatsizlik"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "358. Sista hosil qilmaydigan sodda hayvonlarga kiradi:",
+            "options": [
+                "Chilomastis",
+                "Trichomonas",
+                "Entamoeda",
+                "Lamblia"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "359. Sodda hayvonlarni vegetativ shaklini va sistalarini topish mumkin:",
+            "options": [
+                "balg‘amda",
+                "najasda, shilliq-qon aralash najasda",
+                "Duodenal ajralmada",
+                "Oshqozon suyuqligida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "360. Tadqiqot natijalariga quyidagilar ta’sir qilmaydi:",
+            "options": [
+                "Sentrifuga qilish",
+                "Pipetka bilan ishlash",
+                "Cho‘kmaga tushishi,haroratning o‘zgarishi",
+                "Tekshiruv usullari"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "361. Laboratoriya tahlilining sifatini nazorat qilishning asosiy bosqichi: Preanalitik",
+            "options": [
+                "Analitik",
+                "Postanalitik",
+                "Yuqorida aytilganlarning barchasi to‘g‘ri"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "362. “katal”-bu nimani bildiruvchi birlik:",
+            "options": [
+                "Mixaelis-Menten konstantasi",
+                "Ferment konsentratsiyasi",
+                "Ingibitor konsentratsiyasi",
+                "Ferment faolligi"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "363. Ferment aktivligini bildiruvchi xalqaro birlikni toping:",
+            "options": [
+                "Mol/soat/l",
+                "Mol/sek/dl",
+                "Mkmol/min/l",
+                "Mkmol/soat/ml"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "364. Anemiyalarni gipo-, normova giperxrom turlarga bo‘lish qaysi ko‘rsatkichlar qiymatiga asoslangan:",
+            "options": [
+                "RBC",
+                "MCV",
+                "RDW",
+                "MCH"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "365. Mixaelis-menten konstantasibu:",
+            "options": [
+                "Fermentativ reaksiyalarda optimal substrat konsentratsiyasi",
+                "Maksimal fermentativ reaksiyalar tezligi yarmini tashkil qiluvchi substrat konsentratsiyasi",
+                "Reaksiya tezligi haroratga bog‘liq bo‘lgan koeffitsient",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "366. Fermentlar aktivligini aniqlash uchun olingan qon o‘zgarishi mumkin:",
+            "options": [
+                "Davomiy venoz stazda",
+                "Eritrotsitlar mikrogemolizida",
+                "Gemostaz tizimi faollashishida",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "367. Fermentlar aktivligini aniqlash uchun transportirovka qilingan qon",
+            "options": [
+                "quyidagilar natijasida o‘zgarishi mumkin: Plazma proteolitik sistemasi aktivatsiyasida",
+                "Fermentlarning to‘rtlamchi strukturasining buzilishida",
+                "pHni o‘zgarishi, eritrotsitlarni qisman gemolizida",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "368. Suyak ko‘migida sideroblastlar, periferik qonda siderotsitlar miqdorining oshib ketishi bu:",
+            "options": [
+                "Tuberkulyozga qarshi dori vositalarni qabul qilganda",
+                "Ko‘rg‘oshin bilan zaxarlanishda",
+                "Temir tanqisligi anemiyasida",
+                "Mielom kasalliklarida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "369. Jigar uchun organospesifik ferment hisoblanadi:",
+            "options": [
+                "KFK",
+                "amilaza",
+                "ALT",
+                "kislotali fosfataza"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "370. Fermentlar aktivligini aniqlash uchun optimal muhitda quyidagilar standartlanadi:",
+            "options": [
+                "pH, harorat",
+                "Bufer konsentratsiyasi va tabiati",
+                "Substrat konsentratsiyasi",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "371. Zardobda plazmadan ko‘ra fermentlar aktivligi ko‘proq, chunki: Plazmada fermentlar fibrinogen bilan sorbirlanadi",
+            "options": [
+                "Laxtak hosil bo‘lgandan so‘ng trombotsitlardan fermentlar chiqib ketadi",
+                "Plazmada fermentlar aktivligini yo‘qotib polimerizatsiyalanadi",
+                "Zardobda fermentlar sintezi aktivlanadi"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "372. Temir tanqislik anemiyasiga sabab bo‘lishi mumkin:",
+            "options": [
+                "Avitaminoz",
+                "Porfirin sintezi buzilishi",
+                "Surunkali qon yo‘qotish",
+                "Oshqozon sekretor faoliyati buzilishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "373. Yashirin temir tanqislik anemiyasiga tashxis qo‘yilishi:",
+            "options": [
+                "Eritrotsitlar protoporfirin miqdori ko‘payishi",
+                "Qon zardobida ferritin konsentratsiyasi kamayishi",
+                "Gemoglobin miqdori kamayishi",
+                "Eritrotsitlar miqdori kamayishi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "374. Fermentlar aktivligini aniqlashdagi analitik xato manbalari:",
+            "options": [
+                "Inkubatsion aralashmadagi pH ni o‘zgarishi",
+                "Inkubatsiyada nostabil harorat bo‘lishi",
+                "Muddati o‘tgan reaktivlardan foydalanish",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "375. Bemorda to‘sh ortida yoki qornida o‘tkir og‘riq huruji, qon zardobida KK>AST>ALT> GGTP>amilaza aktivligi oshishi aniqlandi. Diagnoz o‘ying:",
+            "options": [
+                "O‘tkir pankreatit",
+                "O‘tkir virusli gepatit",
+                "Buyrak sanchig‘i",
+                "Miokard infarkti"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "376. Bemorda to‘sh ortida yoki qornida o‘tkir og‘riq huruji, qon zardobida >amilaza, ALT >AST, KK aktivligi oshishi aniqlandi. Diagnoz qo‘ying: O‘tkir virusli gepatit",
+            "options": [
+                "O‘tkir pankreatit",
+                "Buyrak sanchig‘i",
+                "Miokard infarkti"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "377. Buyrak kolikasida qon zardobidagi o‘zgarishlar:",
+            "options": [
+                "KK aktivligi oshadi",
+                "Amilaza aktivligi oshadi",
+                "Alt aktivligi oshadi",
+                "Fermentlar aktivligi stabil darajada"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "378. Bemorda to‘sh ortida yoki qornida o‘tkir og‘riq huruji, qon zardobida urokinaza>gistidaza>ALT>AST>GGTP>amilaza, KK aktivligi oshishi aniqlandi. Diagnoz qo‘ying:",
+            "options": [
+                "O‘tkir pankreatit",
+                "Jigar sanchig‘i",
+                "Buyrak sanchig‘i",
+                "Miokard infarkti"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "379. Suyak sistemasi kasalliklarida diagnoz qo‘yishda qaysi fermentning zardobdagi aktivligi aniqlanadi:",
+            "options": [
+                "Kislotali fosfataza",
+                "Aminotransferazalar",
+                "Amilaza",
+                "Ishqoriy fofataza"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "380. Oshqozon osti bezi kasalliklarida diagnoz qo‘yishda qaysi fermentning zardobdagi aktivligi aniqlanadi:",
+            "options": [
+                "Kislotali fosfataza",
+                "Aminotransferazalar",
+                "Alfa-amilaza",
+                "kreatinkinaza"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "381. Miokard infarktida diagnoz qo‘yishda qaysi fermentning zardobdagi aktivligi aniqlanadi:",
+            "options": [
+                "LDG-5",
+                "Xolinesteraza",
+                "Amilaza",
+                "KK"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "382. Jigar kasalliklarida diagnoz qo‘yishda qaysi fermentning zardobdagi aktivligi aniqlanadi:",
+            "options": [
+                "LDG-1",
+                "GGTP",
+                "Lipaza",
+                "KK"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "383. O‘tkir pankreatitni 3-4-kunida alfa-amilazani qayerda aniqlash maqsadga muvofiq:",
+            "options": [
+                "Qon",
+                "Siydik",
+                "So‘lak",
+                "Oshqozon shirasida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "384. Obturatsion sariqlikda diagnoz qo‘yishda qaysi fermentning zardobdagi aktivligi aniqlanadi:",
+            "options": [
+                "Xolinesteraza",
+                "LDG izofermenti",
+                "Aminotransferazalar",
+                "Gamma-glyutamiltransferaza"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "385. Suyak metastazi yoki raxit bo‘lgan bemorlarda obturatsion sariqlik diagnozi qo‘yishda qaysi fermentning zardobdagi aktivligi aniqlanadi:",
+            "options": [
+                "Ishqoriy fosfataza",
+                "5-nukleotidaza",
+                "Aminotransferazalar",
+                "Sorbitoldegidrogenaza"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "386. Jigarni alkogolli zararlanishiga shubha qilinganida aniqlanadi:",
+            "options": [
+                "Xolinesteraza",
+                "LDG izofermenti",
+                "KK",
+                "GGTP"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "387. Jigar o‘smasiga shubha qilinganida aniqlanadi:",
+            "options": [
+                "Ishqoriy fosfataza",
+                "Glyutomatdegidrogenaza –",
+                "GGTP",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "388. Skelet mushaklari zararlanganida diagnoz qo‘yishda qaysi fermentning zardobdagi aktivligi aniqlanadi:",
+            "options": [
+                "GGTP",
+                "KK",
+                "LDG",
+                "Aminotransferazalar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "389. Zardobda KKni oshishi kuzatiladi:",
+            "options": [
+                "Mushak shikastlanishida",
+                "Polimiozitda",
+                "Dyushen distrofiyasida",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "390. Xolestaz markerlari hisoblanadi:",
+            "options": [
+                "Aminotransferazalar",
+                "LDG va KK izofermentlari",
+                "Gistidaza, urokinaza",
+                "5-nukleotidaza, GGTP, ishqoriy fosfataza"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "391. Surunkali gepatitni bildiruvchi ferment spektriga kiradi:",
+            "options": [
+                "LDG, KK, ularning izofermentlari",
+                "ALT, AST, GGTP, XE, gistidaza, urokaninaza",
+                "Ishqoriy fosfataza izofermentlari",
+                "Hamma fermentlar"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "392. AST/ALT aktivligi nisbati (de-Ritis koeffitsienti) kamayadi:",
+            "options": [
+                "Infeksion mononukleoz",
+                "O‘tkir va persistirlanuvchi virusli gepatitda",
+                "Jigar ichi xolestazi",
+                "Og‘ir jigarning yog‘li gepatozi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "393. Ishqoriy fosfataza aktivligi aniqlanadi:",
+            "options": [
+                "Oksalatli plazmada",
+                "Qon zardobida",
+                "Sitratli plazmada",
+                "EDTAli plazmada"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "394. Bir hafta davomida xona haroratida alfa-amilaza aktivligi o‘zgarmaydi:",
+            "options": [
+                "Oksalatli plazmada",
+                "Gemolizlanmagan zardobda",
+                "Sitratli plazmada",
+                "Edtali plazmada"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "395. LDG aktivligini aniqlashda qo‘llaniladigan qon tayyorlashda xato:",
+            "options": [
+                "Zardob laxladan ajratilmagan bo‘lsa har 1 soatda 25%ga oshadi",
+                "Gemolizlangan zardobni ishlatish mumkin",
+                "Zardob muzlatkichda 3 kundan ortiq saqlanmaydi",
+                "Muzlatishda aktivligini yo‘qotadi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "396. Hujayraviy yoki giperhujayraviy suyak ko‘migida blastlarning ko‘payishi xarakterlanadi:",
+            "options": [
+                "Foliy tanqislik anemiyasida",
+                "O‘tkir qon yo‘qotishda",
+                "O‘tkir leykozda",
+                "Infeksion mononukleozda"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "397. Suyak ko‘migida plazmatik hujayralarning foizi yuqori bo‘lishi kuzatiladi:",
+            "options": [
+                "Kollagenozlarda",
+                "Infeksion mononukleozda",
+                "Mielom kasalliklarda",
+                "Valdenstrem kasalligida"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "398. ALT aktivligi o‘zgarib ketadi:",
+            "options": [
+                "Zardob muzlatkichda 2 kun saqlangan qonda",
+                "Zardob muzlatkichda 1hafta saqlangan qonda",
+                "Muzlatilgan namunalar 2 marta qo‘llanilsa",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "399. Fermentlar aktivligini aniqlashda qo‘llanilmaydigan metod:",
+            "options": [
+                "Uzluksiz kinetik o‘lchash",
+                "Ikki nuqtali o‘lchash",
+                "Oxirgi nuqta bo‘yicha o‘lchash",
+                "Polyarimetrik o‘lchash"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "400. Izofermentlar quyidagi metodlar orqali bo‘linadi:",
+            "options": [
+                "Elektroforez",
+                "Ionalmashinuv xromatografiya",
+                "Maxsus antizardob qo‘llaniluvchi immunologik",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "401. Oshqozon osti bezi kasalliklarida diagnoz qo‘yishda qaysi fermentning zardobdagi aktivligi aniqlanadi:",
+            "options": [
+                "KK",
+                "Xolinesteraza",
+                "LDG",
+                "Lipazalar"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "402. Aminotransferazalar aktivligini oshishi xarakterli emas:",
+            "options": [
+                "Virusli gepatit",
+                "Miokard infarkti",
+                "Miodistrofiya",
+                "Skleroz"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "403. Ishqoriy fosfataza aktivligini tekshiruvi o‘tkazilmaydi:",
+            "options": [
+                "Suyak o‘smalarda",
+                "Qandli diabetda",
+                "Raxitda",
+                "Gepatitda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "404. Fermentlar aktivligini baholash mumkin:",
+            "options": [
+                "Substrat konsentratsiyasi o‘zgarishi",
+                "reaksiya mahsuloti konsentratsiyasi o‘zgarishi",
+                "Koferment holati o‘zgarishi",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "405. Katalizator fermentlari uchun xos emas:",
+            "options": [
+                "Yuqori aktivlik",
+                "Maxsus ta’sir",
+                "Transport funksiyasini bajaradi",
+                "Termolabillik"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "406. Fermentlar aktivligi mexanizmi uchun xos emas:",
+            "options": [
+                "Chegaralangan proteoliz",
+                "Koferment yoki kofaktorni qo‘shilishi",
+                "Denaturatsiya",
+                "Struktur modifikatsiya"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "407. Alfa-amilazani qonda oshmaydi:",
+            "options": [
+                "12 barmoqli ichak perforatsiyasida",
+                "Parotit",
+                "Methanol bilan zaharlanish",
+                "O‘tkir pankreatit"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "408. Qon zardobidagi xolinesterazalarni aniqlash qaysi kasalliklarda diagnostik ahamiyatga ega emas:",
+            "options": [
+                "Jigar funksional holatini baholash",
+                "Suyak kasalliklari diagnostikasida",
+                "Fob bilan zaharlanish diagnostikasida",
+                "Atipik xolinesterazalarni aniqlashda"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "409. Sariqlikni differensial diagnostikasida aniqlash maqsadga muvofiq emas:",
+            "options": [
+                "Ishqoriy fosfataza",
+                "Kislotali fosfataza",
+                "Xolinesteraza",
+                "Aminotransferaza"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "410. Izofermentlar xillarga bo‘linmaydi:",
+            "options": [
+                "Elektroforetik harakatlanishiga ko‘ra",
+                "Katalitik aktivligiga ko‘ra",
+                "Kimyoviy xossalariga ko‘ra",
+                "Fizik xossalariga ko‘ra"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "411. Hujayraviy (indikator) fermentlariga kirmaydi:",
+            "options": [
+                "AST",
+                "Xolinesteraza",
+                "LDG",
+                "Ishqoriy fosfataza"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "412. Fermentativ reaksiya tezligi bog‘liq: ferment miqdori va faolligi",
+            "options": [
+                "substrat konsentratsiyasi va kimyoviy tuzilishi",
+                "reaksiya mahsuloti konsentratsiyasi",
+                "hamma javoblar to‘g‘ri"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "413. LDG-1 va LDG-2 izofermentlarini protsent miqdori qayerda ko‘proq: Skelet mushaklari",
+            "options": [
+                "Yurak",
+                "Jigar",
+                "O‘sma hujayralari"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "414. LDG-4 va LDG-5 izofermentlari uchraydi:",
+            "options": [
+                "Buyrak",
+                "Skelet mushaklari",
+                "Yurak",
+                "Leykotsit"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "415. Oshqozon osti bezida sintez qilinmaydigan ferment:",
+            "options": [
+                "Lipaza",
+                "Tripsin",
+                "Amilaza",
+                "Streptokinaza"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "416. Zardobdagi kislotali fosfataza aktivligi oshadi:",
+            "options": [
+                "Siydik tosh kasalligi",
+                "Prostata bezi xavfli o‘smalarida",
+                "Xolesistit",
+                "Surunkali buyrak yetishmovchiligi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "417. Zardobdagi GGTP aktivligi oshadi:",
+            "options": [
+                "Jigar shikastlanganda",
+                "Jigar ichi va tashqari xolestazi",
+                "O‘tkir pankreatit",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "418. Yangi qon zardobida birinchi bo‘lib aktivligi aniqlanadi:",
+            "options": [
+                "KK",
+                "Ishqoriy fosfataza",
+                "Sorbitoldegidrogenaza",
+                "Yuqoridagi hamma ferment"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "419. Fermentlarning fiziologik o‘zgarishiga xos, noto‘g‘risini toping:",
+            "options": [
+                "Yangi tug‘ilganlar va erta bolalik davrda fermentlar kattalarga nisbatan baland",
+                "Chiniqmagan odamlar uzoq fizik mehnat qilsa KFK, ALT, AST, LDG fermentlari oshmaydi",
+                "Normal homiladorlikda fermentlar aktivligi o‘zgarmaydi",
+                "Fermentlarning kunlik tebranishi o‘rtacha darajadan unchalik o‘zgarmaydi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "420. Aldolaza, aminotransferaza, LDG-1 aktivligi oshishi, KK aktivligi normal bo‘lishi xos:",
+            "options": [
+                "O‘tkir pankreatit",
+                "Virusli gepatit",
+                "Raxit",
+                "Miodistrofiya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "421. Pankreatik lipaza aktivligi normada 28 me dan oshmaydi, aktivlik 1670nmol/s bo‘lsa:",
+            "options": [
+                "O‘tkir pankreatit yo‘q",
+                "O‘tkir pankreatit bor",
+                "Hech narsani anglatmaydi",
+                "Bunday bo‘lishi mumkin emas"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "422. LDG-3 izoferment uchraydi:",
+            "options": [
+                "O‘pka",
+                "Taloq",
+                "Buyrak usti bezi",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "423. Amilazani siydikdan ajralishi kamayadi:",
+            "options": [
+                "Oshqozon osti bezi rakida",
+                "O‘t-tosh kasalligida",
+                "Parotit",
+                "Glomerulonefrit"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "424. Glutamatdegidrogenaza-organospesifik ferment:",
+            "options": [
+                "O‘pka",
+                "Jigar",
+                "Yurak",
+                "Oshqozon osti bezi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "425. Miokard infarktida zardobda KKni qaysi izofermenti oshishi spesifik:",
+            "options": [
+                "MM-KK",
+                "MB-KK",
+                "BB-KK",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "426. Agar buyrak kanallari siydikni qonsentrlash xususiyatini yo‘qotib, siydikning solishtirma og‘irligi sutkalik siydikda kam farqlansa, nima deyiladi:",
+            "options": [
+                "Girostenuriya",
+                "Buyrak kanallari zararlanishi",
+                "Izostenuriya",
+                "Nikturiya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "427. Siyd ik tarkibida shaklli elementlarni Kakovskiy-Addis usulida aniqlash",
+            "options": [
+                "uchun necha soat davomida siydik yig‘iladi: 5-8 soat",
+                "10-12 soat",
+                "12-14 soat",
+                "2-3 soat"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "428. Uglevodlar quyidagi vazifani bajaradi, noto‘g‘risini toping: Energetik",
+            "options": [
+                "Struktur",
+                "Transport",
+                "Plastik"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "429. Uglevodlar parchalanishida qatnashmaydi:",
+            "options": [
+                "Alfa-amilaza",
+                "Gamma-amilaza",
+                "Tripsin",
+                "Laktaza"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "430. Disaxaridlar almashinuvi bo‘ladi:",
+            "options": [
+                "Og‘iz bo‘shlig‘ida",
+                "Oshqozonda",
+                "12 barmoqli ichakda",
+                "Vorsinkalar yuzasida"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "431. Uglevodlar so‘rilishi asosan bo‘ladi:",
+            "options": [
+                "Og‘iz bo‘shlig‘ida",
+                "Oshqozonda",
+                "Ingichka ichakda",
+                "Yo‘g‘on ichakda"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "432. Uglevodlar qanday shaklda so‘riladi:",
+            "options": [
+                "Kraxmal",
+                "Kletchatka",
+                "Oligosaxarid",
+                "Monosaxarid"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "433. Qondagi glyukoza gomeostazida ishtirok etuvchi asosiy organ:",
+            "options": [
+                "Ichak",
+                "Skelet mushaklari",
+                "Jigar",
+                "Buyrak usti bezi"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "434. Glyukozani hujayradagi metabolizmida asosiy yo‘li:",
+            "options": [
+                "Glikogen",
+                "Glyukoza",
+                "Glyukozo-6-fosfat",
+                "Glyukozo-1-fosfat"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "435. Uglevodlarning depo shakli:",
+            "options": [
+                "Glyukozo-6-fosfat",
+                "Glikogen",
+                "Oligosaxarid",
+                "Glyukozo-1-fosfat"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "436. Giperglikemiyada glyukoza ajraladi:",
+            "options": [
+                "Teri orqali",
+                "So‘lak orqali",
+                "Buyrak orqali",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "437. Glyukozani siydik bilan ajralishi bog‘liq emas:",
+            "options": [
+                "Koptokchalar filtratsiyasi miqdoriga",
+                "Giperglikemiya darajasiga",
+                "Kanaldagi reabsorbsiyasiga",
+                "Ichakda glyukoza so‘rilish intensivligiga"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "438. Gipoglikemik effektga ega:",
+            "options": [
+                "Adrenalin",
+                "GKS",
+                "Insulin",
+                "Somatotrop gormon"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "439. Uzoq ochlikda glyukoza gomeostazida bo‘ladi:",
+            "options": [
+                "Glikogenoliz oshadi",
+                "Glikoneogenez aktivatsiyasi",
+                "Glikogenez oshadi",
+                "Glikoliz hisobiga"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "440. Glyukozuriya kuzatiladi:",
+            "options": [
+                "Normoglikemiyada",
+                "Kuchli giperglikemiyada",
+                "Kuchsiz giperglikemiya",
+                "Gipoglikemiyada"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "441. Qonda glyukozani kamayishi kuzatiladi:",
+            "options": [
+                "Giperparatireoz",
+                "Insuloma",
+                "Feoxromatsitoma",
+                "Gipertireoz"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "442. Giperglikemiya va glyukozuriya kuzatiladi:",
+            "options": [
+                "Feoxromatsitoma",
+                "Gipertireoz, akromegaliya",
+                "Itsenko-Kushing kasalligi",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "443. Qandli diabetga iolog qilinganda aniqlanadi:",
+            "options": [
+                "Siydikda glyukoza",
+                "Qonda glyukoza",
+                "Triglitseridlar",
+                "Xolesterin"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "444. Qondagi glyukozani aniqlash mumkin:",
+            "options": [
+                "Glyukozooksidaza, geksokinaza metodi",
+                "Ortotoluidin metodi",
+                "Xagedorn-Yensen metodi",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "445. Suyak ko‘migi eritromielozida proliferatsiya joyini ko‘rsating: Eritroblast",
+            "options": [
+                "Mieloblast",
+                "Eritroblast va mieloblast",
+                "Megakariotsit"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "446. Bemor qon analizida glyukoza yoshiga mos, siydigida esa oshgan. Qaysi",
+            "options": [
+                "kasallikni o‘ylash kerak: Manifest qandli diabet",
+                "Glyukozaga tolerantlikni buzilishi",
+                "Buyrak diabeti",
+                "Itsenko-Kushing kasalligi"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "447. Monosaxarid hisoblanadi:",
+            "options": [
+                "Saxaroza",
+                "Galaktoza",
+                "Laktoza",
+                "Kraxmal"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "448. Giperglikemik koma uchun xos:",
+            "options": [
+                "Giperglikemiya",
+                "Ketoz, glyukozuriya",
+                "Giperosmolyarlik",
+                "Hammasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "449. Bemorda glyukozuriya, lekin glyukoza tolerantligi buzilmagan. Nimaga shubha qilish mumkin:",
+            "options": [
+                "Glyukozaga tolerantlikni buzilishi",
+                "Qandli diabet",
+                "Buyrak diabeti",
+                "Itsenko-Kushing kasalligi"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "450. Eritrotsitlardagi glyukoza miqdori:",
+            "options": [
+                "Plazmaga nisbatan kam",
+                "Plazma bilan bir xil",
+                "Plazmaga nisbatan baland",
+                "Plazmadagi miqdorga bogliq emas"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "451. Glikozirlangan gemoglobin:",
+            "options": [
+                "Insulinga bog‘liq bo‘lmagan qandli diabetda uchraydi",
+                "Insulinga bog‘liq bo‘lgan qandli diabetda uchraydi",
+                "Qonda doimo uchraydi",
+                "Diabet bilan kasallanganlar zardobida oshadi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "452. Lipidlarga kiradi:",
+            "options": [
+                "Xolesterin, yog‘ kislotalari",
+                "Triglitserid",
+                "Fosfolipid",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "453. Mielofibrozda qanday gemogrammalar kuzatiladi:",
+            "options": [
+                "Eozinofiliya",
+                "Nisbiy limfotsitoz",
+                "Monotsitoz",
+                "Anemiya, qisqa neytrofilez, trombotsitoz"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "454. O‘tkir limfoblast leykoz laborator tashxisi nimaga asoslangan:",
+            "options": [
+                "Suyak ko‘migida 20%dan ortiq blast hujayralar",
+                "Mieloperoksidozga ijobiy reaksiyalar",
+                "Ishqoriy fosfatazaga ijobiy reaksiyasi",
+                "o‘tkazuvchi sitometriya yordamida sitoplazmatik va membranali limfoid antigenlarga"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "455. Odam organizmida lipidlar qanday funksiyani bajaradi:",
+            "options": [
+                "Struktur, himoya",
+                "Energetik",
+                "Hamma javoblar to‘g‘ri",
+                "Biologik faol moddalar o‘tmishdoshi"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "456. To‘yinmagan yog‘ kislotalarining iologic roli:",
+            "options": [
+                "Transport funksiyasi",
+                "Prostaglandinlar o‘tmishdoshi",
+                "Kislota-ishqor muvozanatini ushlab turuvchi",
+                "Lipotrop funksiya"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "457. Lipidlar so‘riladi:",
+            "options": [
+                "Og‘iz bo‘shlig‘i",
+                "Me’da",
+                "12 barmoqli ichak",
+                "Ingichka ichak"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "458. Ichakda triglitseridlar reabsorbsiyasida ahamiyatli:",
+            "options": [
+                "Emulgirlanish",
+                "Gidroliz",
+                "O‘t ajralishi",
+                "Hammasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "459. Prostaglandinlar nimadan sintezlanadi:",
+            "options": [
+                "Triglitserid",
+                "Xolesterin",
+                "Polito‘yinmagan yog‘ kislotalari",
+                "To‘yingan yog‘ kislotalari"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "460. Prostaglandinlarning biologik roli:",
+            "options": [
+                "Markaziy nerv sistemasiga ta’sir qiladi",
+                "Hujayra metabolizmini regulyatsiya qiladi",
+                "Tomirlar tonusini boshqaradi",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "461. Triglitseridlarning biologik roli:",
+            "options": [
+                "Boshqaruvchi vazifa",
+                "Energetik vazifa",
+                "Lipotrop vazifa",
+                "Transport vazifa"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "462. Triglitseridlar aktivatsiyasida qatnashuvchi ferment:",
+            "options": [
+                "Xolesterinesteraza",
+                "Lipaza",
+                "Fosfolipaza",
+                "Alfa-amilaza"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "463. Endogen triglitseridlarning asosiy transport formasi:",
+            "options": [
+                "Xilomikronlar",
+                "zichligi past lipoproteidlar",
+                "zichligi juda past lipoproteidlar",
+                "zichligi yuqori lipoproteidlar"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "464. Zardob loyqaligi nimaga bog‘liq:",
+            "options": [
+                "Xolesterin",
+                "Fosfolipid",
+                "Triglitserid",
+                "Yog‘ kislotalari"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "465. Xolesterinni biologik roli: Lipotrop",
+            "options": [
+                "Immunoglobulinlar o‘tmishdoshi",
+                "Vitaminlar va steroid gormonlar sintezi uchun asos",
+                "Kislota-ishqor muvozanatini ta’minlaydi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "466. Qondagi xolesterin miqdori bog‘liq:",
+            "options": [
+                "Jins, yosh",
+                "Gormonal status",
+                "Ovqatlanishi",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "467. Xolesterinni organizmdan chiqaruvchi organ:",
+            "options": [
+                "So‘lak",
+                "Jigar",
+                "Buyrak",
+                "Teri"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "468. Xolesterin eterefikatsiyasi asosan bo‘ladi:",
+            "options": [
+                "Qon plazmasida",
+                "Jigarda",
+                "Tomir devorida",
+                "Buyrak usti bezida"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "469. Lipid almashinuvini tekshiruvida ko‘rsatkich hisoblanmaydi:",
+            "options": [
+                "Och qorinda qon olish",
+                "Xona haroratida namunalarni saqlash",
+                "Idishlarni yog‘sizlantirish va quruq qilish",
+                "Tekshiruvga qon olishdan oldin 2-3 kun davomida doimgi ratsionda bo‘lish"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "470. Gipoxolesterinemiya bilan kechuvchi holat va kasallik:",
+            "options": [
+                "Nefrotik sindrom",
+                "Klimaks",
+                "Og‘ir jismoniy zo‘riqish",
+                "Insulin yetishmovchiligi"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "471. Steatoreya bilan kechuvchi patologik jarayon, xatosini toping:",
+            "options": [
+                "Pankreatit",
+                "Lipidlar so‘rilishini buzilishi",
+                "O‘t-tosh kasalligi",
+                "Gastrit"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "472. Xolesterin nimani o‘tmishdoshi hisoblanadi:",
+            "options": [
+                "Jinsiy gormonlar",
+                "Vitamin “D”",
+                "Buyrak usti bezi po‘stloq qismi gormonlari",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "473. Fosfolipid tarkibiga kiruvchi azot saqlovchi birikmani toping:",
+            "options": [
+                "Xolin",
+                "Sfingozin",
+                "Serin",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "474. Lipidlar almashinuvida qatnashuvchi gormonni toping:",
+            "options": [
+                "Adrenalin",
+                "Glyukokortikosteroid",
+                "Insulin",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "475. Tipik giperlipoproteinemiyada qonning qaysi ko‘rsatkichi tekshiriladi: Alfa-xolesterin",
+            "options": [
+                "Umumiy xolesterin",
+                "Lipoproteid spektri",
+                "Umumiy lipid"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "476. Keton tanachalariga kiradi:",
+            "options": [
+                "Aseton",
+                "Asetouksus kislota",
+                "Beta-oksimoykislota",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "477. Glikolipidlarga kiradi:",
+            "options": [
+                "Xolesterin efirlari",
+                "Serebrozid",
+                "Lesitin",
+                "Sfingomielin"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "478. Prostaglandin nimani mahsuloti hisoblanadi:",
+            "options": [
+                "Xolesterin",
+                "Araxidon kislota",
+                "Palmitin kislotasi",
+                "Stearin kislotasi"
+            ],
+            "solution": 1
+        },
+        {
+            "question": "479. Apolipoproteid miqdori ko‘pincha o‘zgaradi:",
+            "options": [
+                "Yurak ishemik kasalligida",
+                "Qandli diabetda",
+                "Oilaviy giperlipidemiyada",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "480. Gipertriglitseridemiya uchun xos:",
+            "options": [
+                "Semizlik, tug‘ma giperlipidemiya",
+                "Alkogolizm",
+                "Qandli diabet",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "481. Fosfolipidlarning biologik roli:",
+            "options": [
+                "Struktur",
+                "Transport",
+                "Lipotrop",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "482. Lipidlarning transport shakli:",
+            "options": [
+                "Gormon",
+                "Apoproteid",
+                "Lipoproteid",
+                "Yog‘ kislotasi"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "483. Lipoproteidlar zichligi bo‘yicha bo‘linadi:",
+            "options": [
+                "Past zichlikda",
+                "Juda past zichlikda",
+                "Yuqori zichlikda",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "484. Arterial tomirlarda lipoidoz amalga oshiradi:",
+            "options": [
+                "zichligi past lipoproteidlarni oshishi",
+                "zichligi juda past lipoproteidlarni oshishi",
+                "zichligi yuqori lipoproteidlarni kamayishi",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "485. Ovqatdan so‘ng qon zardobida qaysi lipoproteidlar aniqlanadi:",
+            "options": [
+                "zichligi past lipoproteidlar",
+                "zichligi juda past lipoproteidlar",
+                "xilomikronlar, zichligi yuqori lipoproteidlar",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 2
+        },
+        {
+            "question": "486. Yurak ishemik kasalligiga havf omili hisoblanadi:",
+            "options": [
+                "Giperxolesterinemiya",
+                "Diabet",
+                "Gipertoniya",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 3
+        },
+        {
+            "question": "487. Lipidlar almashinuvini boshqarishga ta’sir qiladi:",
+            "options": [
+                "Esterogenlar",
+                "Insulin",
+                "Adrenalin",
+                "Hamma javoblar to‘g‘ri"
+            ],
+            "solution": 0
+        },
+        {
+            "question": "488. Xolesterin eterifikatsiyasi qachon kamayadi:",
+            "options": [
+                "Glikemiya",
+                "Jigar sirrozida",
+                "Tireotoksikoz",
+                "Ateroskleroz"
+            ],
+            "solution": 1
+        }
+    ]
+}
